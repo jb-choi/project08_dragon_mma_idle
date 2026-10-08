@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: f4a109e5d2d1b844fb0c842790c4910f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5180945116037597016
+    second: dragon-heavy-threat_0
+  - first:
+      213: -3672527410280584363
+    second: dragon-heavy-threat_1
+  - first:
+      213: -2395656634960304815
+    second: dragon-heavy-threat_2
+  - first:
+      213: -917685399499720186
+    second: dragon-heavy-threat_3
+  - first:
+      213: 5612695304207579041
+    second: dragon-heavy-threat_4
+  - first:
+      213: 6199492143132815497
+    second: dragon-heavy-threat_5
+  - first:
+      213: -2096171629380126459
+    second: dragon-heavy-threat_6
+  - first:
+      213: 9112968496061723676
+    second: dragon-heavy-threat_7
+  - first:
+      213: 3018499130792538002
+    second: dragon-heavy-threat_8
+  - first:
+      213: -6861661671755382823
+    second: dragon-heavy-threat_9
+  - first:
+      213: 6605515292277237610
+    second: dragon-heavy-threat_10
+  - first:
+      213: -1374173376663448171
+    second: dragon-heavy-threat_11
+  - first:
+      213: 96593978176418915
+    second: dragon-heavy-threat_12
+  - first:
+      213: 2862303319845936577
+    second: dragon-heavy-threat_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon-heavy-threat_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 758
+        width: 373
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8b8c5edd59918b0800000000000000
+      internalID: -5180945116037597016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 764
+        width: 347
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b275a37cf880dc0800000000000000
+      internalID: -3672527410280584363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 761
+        width: 339
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1552265bbfae0ced0800000000000000
+      internalID: -2395656634960304815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_3
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 509
+        width: 375
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ab143cdf9b343f0800000000000000
+      internalID: -917685399499720186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 380
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7bbcf44ac44ed40800000000000000
+      internalID: 5612695304207579041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 511
+        width: 363
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980b1430245090650800000000000000
+      internalID: 6199492143132815497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 505
+        width: 373
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509bb825207e8e2e0800000000000000
+      internalID: -2096171629380126459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 487
+        width: 368
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14b5198094c77e70800000000000000
+      internalID: 9112968496061723676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 18
+        width: 361
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fe6bd77fcd3e920800000000000000
+      internalID: 3018499130792538002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_9
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 463
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df7b1e601b76c0a0800000000000000
+      internalID: -6861661671755382823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_10
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 261
+        width: 367
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67689a29218bab50800000000000000
+      internalID: 6605515292277237610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_11
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 17
+        width: 379
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5951d283894fdece0800000000000000
+      internalID: -1374173376663448171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_12
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 399
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364b5ac16bb275100800000000000000
+      internalID: 96593978176418915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-heavy-threat_13
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 371
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd96da44b1f8b720800000000000000
+      internalID: 2862303319845936577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dragon-heavy-threat_0: -5180945116037597016
+      dragon-heavy-threat_1: -3672527410280584363
+      dragon-heavy-threat_10: 6605515292277237610
+      dragon-heavy-threat_11: -1374173376663448171
+      dragon-heavy-threat_12: 96593978176418915
+      dragon-heavy-threat_13: 2862303319845936577
+      dragon-heavy-threat_2: -2395656634960304815
+      dragon-heavy-threat_3: -917685399499720186
+      dragon-heavy-threat_4: 5612695304207579041
+      dragon-heavy-threat_5: 6199492143132815497
+      dragon-heavy-threat_6: -2096171629380126459
+      dragon-heavy-threat_7: 9112968496061723676
+      dragon-heavy-threat_8: 3018499130792538002
+      dragon-heavy-threat_9: -6861661671755382823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

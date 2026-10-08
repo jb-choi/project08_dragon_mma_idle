@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 0b2f36c67bc9165479025a8a55bd1c8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1859449043742260143
+    second: combat_impact_quality_v2_0
+  - first:
+      213: 929608885407168582
+    second: combat_impact_quality_v2_1
+  - first:
+      213: 7909679282902643908
+    second: combat_impact_quality_v2_2
+  - first:
+      213: -1169449112820531416
+    second: combat_impact_quality_v2_3
+  - first:
+      213: -5032749386184648756
+    second: combat_impact_quality_v2_4
+  - first:
+      213: -3472508509571680259
+    second: combat_impact_quality_v2_5
+  - first:
+      213: 6282412359729812835
+    second: combat_impact_quality_v2_6
+  - first:
+      213: 7494151396507279601
+    second: combat_impact_quality_v2_7
+  - first:
+      213: -4886516726707634480
+    second: combat_impact_quality_v2_8
+  - first:
+      213: 6650728133503783910
+    second: combat_impact_quality_v2_9
+  - first:
+      213: -9216365187272104190
+    second: combat_impact_quality_v2_10
+  - first:
+      213: 2374350330275797722
+    second: combat_impact_quality_v2_11
+  - first:
+      213: -1552204810829433025
+    second: combat_impact_quality_v2_12
+  - first:
+      213: -864445404886210549
+    second: combat_impact_quality_v2_13
+  - first:
+      213: 4436419730336202149
+    second: combat_impact_quality_v2_14
+  - first:
+      213: -6694590415136573045
+    second: combat_impact_quality_v2_15
+  - first:
+      213: 2882219015739064794
+    second: combat_impact_quality_v2_16
+  - first:
+      213: 1130192122652140971
+    second: combat_impact_quality_v2_17
+  - first:
+      213: -8914047781344297082
+    second: combat_impact_quality_v2_18
+  - first:
+      213: -5795006780951101974
+    second: combat_impact_quality_v2_19
+  - first:
+      213: 9018459532451925111
+    second: combat_impact_quality_v2_20
+  - first:
+      213: -8977836641854209989
+    second: combat_impact_quality_v2_21
+  - first:
+      213: -8235277137015877319
+    second: combat_impact_quality_v2_22
+  - first:
+      213: 4760812585849497103
+    second: combat_impact_quality_v2_23
+  - first:
+      213: 4002403514302256721
+    second: combat_impact_quality_v2_24
+  - first:
+      213: -8025886940944838029
+    second: combat_impact_quality_v2_25
+  - first:
+      213: -1546726265535209023
+    second: combat_impact_quality_v2_26
+  - first:
+      213: -5864226716367389913
+    second: combat_impact_quality_v2_27
+  - first:
+      213: 3831739995384684474
+    second: combat_impact_quality_v2_28
+  - first:
+      213: 7046731541182767280
+    second: combat_impact_quality_v2_29
+  - first:
+      213: -1778140499375153436
+    second: combat_impact_quality_v2_30
+  - first:
+      213: 6040244177496973085
+    second: combat_impact_quality_v2_31
+  - first:
+      213: 7250350588006181355
+    second: combat_impact_quality_v2_32
+  - first:
+      213: 2551361706890716192
+    second: combat_impact_quality_v2_33
+  - first:
+      213: 2583536748233872614
+    second: combat_impact_quality_v2_34
+  - first:
+      213: 1700268033782967875
+    second: combat_impact_quality_v2_35
+  - first:
+      213: 992792323292220501
+    second: combat_impact_quality_v2_36
+  - first:
+      213: -7191744260508213126
+    second: combat_impact_quality_v2_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 671
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab7232bd071ec910800000000000000
+      internalID: 1859449043742260143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 964
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648bdb22b52a6ec00800000000000000
+      internalID: 929608885407168582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_2
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 362
+        width: 847
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4bda88663d4cd60800000000000000
+      internalID: 7909679282902643908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_3
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 855
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fbf675a3845cfe0800000000000000
+      internalID: -1169449112820531416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_4
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 803
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc716e01915182ab0800000000000000
+      internalID: -5032749386184648756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 783
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7757f98eb2fcfc0800000000000000
+      internalID: -3472508509571680259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 757
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365183a61cc9f2750800000000000000
+      internalID: 6282412359729812835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 719
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f060d94df2900860800000000000000
+      internalID: 7494151396507279601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 657
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de369b4dea9f2cb0800000000000000
+      internalID: -4886516726707634480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_9
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 662
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3903710022c4c50800000000000000
+      internalID: 6650728133503783910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_10
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 661
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207ae5c41b4e81080800000000000000
+      internalID: -9216365187272104190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 643
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada9b68ab0363f020800000000000000
+      internalID: 2374350330275797722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_12
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 623
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37fbdfc2f5757ae0800000000000000
+      internalID: -1552204810829433025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 531
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08e90afb7fd004f0800000000000000
+      internalID: -864445404886210549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 549
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad39355d34519d30800000000000000
+      internalID: 4436419730336202149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_15
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 533
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89bc05ac790813a0800000000000000
+      internalID: -6694590415136573045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 31
+        width: 489
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c0069ce2bff720800000000000000
+      internalID: 2882219015739064794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_17
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 457
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba520ae5fbf3faf00800000000000000
+      internalID: 1130192122652140971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_18
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 445
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f3d1285c0fa4480800000000000000
+      internalID: -8914047781344297082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_19
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 455
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedfd663900049fa0800000000000000
+      internalID: -5795006780951101974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_20
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 415
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c4805b921082d70800000000000000
+      internalID: 9018459532451925111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_21
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 430
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b304bce0421586380800000000000000
+      internalID: -8977836641854209989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_22
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 415
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931d545831b66bd80800000000000000
+      internalID: -8235277137015877319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_23
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 399
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06a4cda2ddc11240800000000000000
+      internalID: 4760812585849497103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_24
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 387
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156d2c56ac46b8730800000000000000
+      internalID: 4002403514302256721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_25
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 383
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3725985a9525e9090800000000000000
+      internalID: -8025886940944838029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 375
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1e10a08ace88ae0800000000000000
+      internalID: -1546726265535209023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_27
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 365
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bf0981fd41e9ea0800000000000000
+      internalID: -5864226716367389913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_28
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 371
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf9f8079331d2530800000000000000
+      internalID: 3831739995384684474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_29
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 367
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b06db360050bc160800000000000000
+      internalID: 7046731541182767280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_30
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 811
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee120603a6c257e0800000000000000
+      internalID: -1778140499375153436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_31
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 355
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f145ca31243d350800000000000000
+      internalID: 6040244177496973085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_32
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 352
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9272f127b6e9460800000000000000
+      internalID: 7250350588006181355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_33
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 349
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02461c864f1486320800000000000000
+      internalID: 2551361706890716192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 145
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4d5aefbf09ad320800000000000000
+      internalID: 2583536748233872614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 111
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ee590b4c0989710800000000000000
+      internalID: 1700268033782967875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_36
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 37
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c4195ab5b17cd00800000000000000
+      internalID: 992792323292220501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_impact_quality_v2_37
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 23
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7024f4d2bac13c90800000000000000
+      internalID: -7191744260508213126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      combat_impact_quality_v2_0: 1859449043742260143
+      combat_impact_quality_v2_1: 929608885407168582
+      combat_impact_quality_v2_10: -9216365187272104190
+      combat_impact_quality_v2_11: 2374350330275797722
+      combat_impact_quality_v2_12: -1552204810829433025
+      combat_impact_quality_v2_13: -864445404886210549
+      combat_impact_quality_v2_14: 4436419730336202149
+      combat_impact_quality_v2_15: -6694590415136573045
+      combat_impact_quality_v2_16: 2882219015739064794
+      combat_impact_quality_v2_17: 1130192122652140971
+      combat_impact_quality_v2_18: -8914047781344297082
+      combat_impact_quality_v2_19: -5795006780951101974
+      combat_impact_quality_v2_2: 7909679282902643908
+      combat_impact_quality_v2_20: 9018459532451925111
+      combat_impact_quality_v2_21: -8977836641854209989
+      combat_impact_quality_v2_22: -8235277137015877319
+      combat_impact_quality_v2_23: 4760812585849497103
+      combat_impact_quality_v2_24: 4002403514302256721
+      combat_impact_quality_v2_25: -8025886940944838029
+      combat_impact_quality_v2_26: -1546726265535209023
+      combat_impact_quality_v2_27: -5864226716367389913
+      combat_impact_quality_v2_28: 3831739995384684474
+      combat_impact_quality_v2_29: 7046731541182767280
+      combat_impact_quality_v2_3: -1169449112820531416
+      combat_impact_quality_v2_30: -1778140499375153436
+      combat_impact_quality_v2_31: 6040244177496973085
+      combat_impact_quality_v2_32: 7250350588006181355
+      combat_impact_quality_v2_33: 2551361706890716192
+      combat_impact_quality_v2_34: 2583536748233872614
+      combat_impact_quality_v2_35: 1700268033782967875
+      combat_impact_quality_v2_36: 992792323292220501
+      combat_impact_quality_v2_37: -7191744260508213126
+      combat_impact_quality_v2_4: -5032749386184648756
+      combat_impact_quality_v2_5: -3472508509571680259
+      combat_impact_quality_v2_6: 6282412359729812835
+      combat_impact_quality_v2_7: 7494151396507279601
+      combat_impact_quality_v2_8: -4886516726707634480
+      combat_impact_quality_v2_9: 6650728133503783910
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

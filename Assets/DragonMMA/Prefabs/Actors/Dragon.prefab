@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6749088395410810718
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5810161697630479856}
+  - component: {fileID: 6611838426513154805}
+  - component: {fileID: 5358655521817878416}
+  - component: {fileID: 1690554347071216041}
+  m_Layer: 0
+  m_Name: Visual
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &5810161697630479856
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6749088395410810718}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4902743993224708282}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 83.354836, y: 68}
+  m_Pivot: {x: 0.623839, y: 0}
+--- !u!222 &6611838426513154805
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6749088395410810718}
+  m_CullTransparentMesh: 1
+--- !u!114 &5358655521817878416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6749088395410810718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 2100000, guid: 0c7e72b02bc46bb4fbcf45ded02ac9e8, type: 2}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -276920082, guid: 3b8c39c4861a9dd418c2a3224ed577b0, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 1
+  m_PixelsPerUnitMultiplier: 1
+--- !u!95 &1690554347071216041
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6749088395410810718}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7d8386adde05a6d48972429455973877, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!1 &8807488870322956263
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4902743993224708282}
+  - component: {fileID: 3829966899463224966}
+  - component: {fileID: 8413100527180090216}
+  m_Layer: 0
+  m_Name: Dragon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &4902743993224708282
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8807488870322956263}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5810161697630479856}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 926, y: 125}
+  m_SizeDelta: {x: 160, y: 120}
+  m_Pivot: {x: 0, y: 0}
+--- !u!222 &3829966899463224966
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8807488870322956263}
+  m_CullTransparentMesh: 1
+--- !u!114 &8413100527180090216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8807488870322956263}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd468076c53b974db575923cfaf94e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DragonMMA.DragonActorView
+  spriteImage: {fileID: 5358655521817878416}
+  animator: {fileID: 1690554347071216041}
+  role: 1
+  hunterController: {fileID: 9100000, guid: 189a2fc0d883a924b85e1084300697c4, type: 2}
+  dragonControllers:
+  - {fileID: 9100000, guid: 7d8386adde05a6d48972429455973877, type: 2}
+  - {fileID: 9100000, guid: 72ba8932de777914f98482ea25bff60a, type: 2}
+  - {fileID: 9100000, guid: a7304894c9e33954e88331d86a61fcc2, type: 2}
+  - {fileID: 9100000, guid: 6cd0b564e05c80f43abe7d30f489b72a, type: 2}
+  - {fileID: 9100000, guid: 81e3c30d7c739fa429b6773787b250f0, type: 2}
+  dragonPreviews:
+  - {fileID: -276920082, guid: 3b8c39c4861a9dd418c2a3224ed577b0, type: 3}
+  - {fileID: -2115511783, guid: 9810c10d5f72b834b97bb027f332c0d1, type: 3}
+  - {fileID: -1795484547, guid: f517ef7e12e6cac4a90cd2e72ea175ee, type: 3}
+  - {fileID: -1793164745, guid: 53d55438680304144a0bd4e07c71a2b8, type: 3}
+  - {fileID: 1184584982, guid: 1da209ac823e8484598113cf41605d09, type: 3}
+  dragonPixelScales:
+  - 0.43870968
+  - 0.71428573
+  - 0.93333334
+  - 0.92913383
+  - 0.9
+  basicCombatProfile: {fileID: 11400000, guid: 514ec53d31addbf40b35ff6c6b246dc2, type: 2}

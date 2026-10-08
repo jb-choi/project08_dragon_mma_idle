@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: ea0663e00c915a447a18cebbc905c583
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8381694029743793960
+    second: dragon-first-yield_0
+  - first:
+      213: -2001624129989525261
+    second: dragon-first-yield_1
+  - first:
+      213: 6296708711244869839
+    second: dragon-first-yield_2
+  - first:
+      213: -3931066326005004066
+    second: dragon-first-yield_3
+  - first:
+      213: -3827846305779027846
+    second: dragon-first-yield_4
+  - first:
+      213: -8487250396986260316
+    second: dragon-first-yield_5
+  - first:
+      213: -1982973324589729990
+    second: dragon-first-yield_6
+  - first:
+      213: -4112411055003888941
+    second: dragon-first-yield_7
+  - first:
+      213: -3124178016921608150
+    second: dragon-first-yield_8
+  - first:
+      213: 2276287313657412873
+    second: dragon-first-yield_9
+  - first:
+      213: -1261362186386094835
+    second: dragon-first-yield_10
+  - first:
+      213: 1345022673809964713
+    second: dragon-first-yield_11
+  - first:
+      213: 4484542211024184262
+    second: dragon-first-yield_12
+  - first:
+      213: -7573245411004415616
+    second: dragon-first-yield_13
+  - first:
+      213: 8386177651883242678
+    second: dragon-first-yield_14
+  - first:
+      213: -555929180584626742
+    second: dragon-first-yield_15
+  - first:
+      213: 2618496143709925093
+    second: dragon-first-yield_16
+  - first:
+      213: -9079455149090215275
+    second: dragon-first-yield_17
+  - first:
+      213: -4617283225911810499
+    second: dragon-first-yield_18
+  - first:
+      213: -7776006512137161014
+    second: dragon-first-yield_19
+  - first:
+      213: 8206677367822633994
+    second: dragon-first-yield_20
+  - first:
+      213: -5216318014012443478
+    second: dragon-first-yield_21
+  - first:
+      213: -2816242517058696167
+    second: dragon-first-yield_22
+  - first:
+      213: -4597955676788657000
+    second: dragon-first-yield_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon-first-yield_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8db1520bd3eab80800000000000000
+      internalID: -8381694029743793960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_1
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 332
+        width: 483
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0cf16757dc834e0800000000000000
+      internalID: -2001624129989525261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_2
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 862
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0bbd32637626750800000000000000
+      internalID: 6296708711244869839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_3
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 757
+        width: 167
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8c8f1110c0279c0800000000000000
+      internalID: -3931066326005004066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 380
+        width: 435
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70ff31d012c0eac0800000000000000
+      internalID: -3827846305779027846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 356
+        width: 408
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a447d73bba373a80800000000000000
+      internalID: -8487250396986260316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 789
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37f0cc74401b74e0800000000000000
+      internalID: -1982973324589729990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_7
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 765
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d29a181fe7cde6c0800000000000000
+      internalID: -4112411055003888941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_8
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 454
+        width: 425
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20ad4e65a0b4a4d0800000000000000
+      internalID: -3124178016921608150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_9
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 733
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d3741604ff69f10800000000000000
+      internalID: 2276287313657412873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_10
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 433
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05c85346cdbe7ee0800000000000000
+      internalID: -1261362186386094835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_11
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 388
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aef94fdefa7aa210800000000000000
+      internalID: 1345022673809964713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_12
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 420
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3675c716b4c3e30800000000000000
+      internalID: 4484542211024184262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_13
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 388
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08189386c6d66e690800000000000000
+      internalID: -7573245411004415616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_14
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 354
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4f1db7420b16470800000000000000
+      internalID: 8386177651883242678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_15
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 374
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5bafe0b51f848f0800000000000000
+      internalID: -555929180584626742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_16
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 369
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee6f8b8e54c65420800000000000000
+      internalID: 2618496143709925093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_17
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 360
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ae26c95ab4ff180800000000000000
+      internalID: -9079455149090215275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 422
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3628249e5d1cefb0800000000000000
+      internalID: -4617283225911810499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_19
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 19
+        width: 435
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6b0f8b643161490800000000000000
+      internalID: -7776006512137161014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_20
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 338
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c4e4fc599f3e170800000000000000
+      internalID: 8206677367822633994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_21
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 23
+        width: 420
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4315b476aeb97b0800000000000000
+      internalID: -5216318014012443478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_22
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 78
+        width: 429
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c4d511a52bae8d0800000000000000
+      internalID: -2816242517058696167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-first-yield_23
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 321
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89475084ca7c030c0800000000000000
+      internalID: -4597955676788657000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dragon-first-yield_0: -8381694029743793960
+      dragon-first-yield_1: -2001624129989525261
+      dragon-first-yield_10: -1261362186386094835
+      dragon-first-yield_11: 1345022673809964713
+      dragon-first-yield_12: 4484542211024184262
+      dragon-first-yield_13: -7573245411004415616
+      dragon-first-yield_14: 8386177651883242678
+      dragon-first-yield_15: -555929180584626742
+      dragon-first-yield_16: 2618496143709925093
+      dragon-first-yield_17: -9079455149090215275
+      dragon-first-yield_18: -4617283225911810499
+      dragon-first-yield_19: -7776006512137161014
+      dragon-first-yield_2: 6296708711244869839
+      dragon-first-yield_20: 8206677367822633994
+      dragon-first-yield_21: -5216318014012443478
+      dragon-first-yield_22: -2816242517058696167
+      dragon-first-yield_23: -4597955676788657000
+      dragon-first-yield_3: -3931066326005004066
+      dragon-first-yield_4: -3827846305779027846
+      dragon-first-yield_5: -8487250396986260316
+      dragon-first-yield_6: -1982973324589729990
+      dragon-first-yield_7: -4112411055003888941
+      dragon-first-yield_8: -3124178016921608150
+      dragon-first-yield_9: 2276287313657412873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 5be3f32ce17c11a46bbc64c78fbf6a6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2817815542431222938
+    second: fighter_walk_quality_v3_0
+  - first:
+      213: 1130209573569854723
+    second: fighter_walk_quality_v3_1
+  - first:
+      213: -7216021804334962373
+    second: fighter_walk_quality_v3_2
+  - first:
+      213: 4597509506763609109
+    second: fighter_walk_quality_v3_3
+  - first:
+      213: -9030657913774581135
+    second: fighter_walk_quality_v3_4
+  - first:
+      213: 6120162245942381128
+    second: fighter_walk_quality_v3_5
+  - first:
+      213: -2253498765178448229
+    second: fighter_walk_quality_v3_6
+  - first:
+      213: 4578819191907167335
+    second: fighter_walk_quality_v3_7
+  - first:
+      213: 3964224163938129503
+    second: fighter_walk_quality_v3_8
+  - first:
+      213: -8236934573854351368
+    second: fighter_walk_quality_v3_9
+  - first:
+      213: 1170770777159054493
+    second: fighter_walk_quality_v3_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fighter_walk_quality_v3_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 434
+        width: 378
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663ffce81bb15e8d0800000000000000
+      internalID: -2817815542431222938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_walk_quality_v3_1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 432
+        width: 447
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d706a7e9f4faf00800000000000000
+      internalID: 1130209573569854723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_walk_quality_v3_2
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 434
+        width: 370
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39242da66a8bdb90800000000000000
+      internalID: -7216021804334962373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_walk_quality_v3_3
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 759
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514502aa982adcf30800000000000000
+      internalID: 4597509506763609109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_walk_quality_v3_4
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 811
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a55615978aca280800000000000000
+      internalID: -9030657913774581135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_walk_quality_v3_5
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 436
+        width: 372
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a072df22f2fe450800000000000000
+      internalID: 6120162245942381128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_walk_quality_v3_6
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 567
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96d1c700d6f9b0e0800000000000000
+      internalID: -2253498765178448229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_walk_quality_v3_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 29
+        width: 353
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c2e50abcb3b8f30800000000000000
+      internalID: 4578819191907167335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_walk_quality_v3_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 27
+        width: 384
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f565d8dafd0c30730800000000000000
+      internalID: 3964224163938129503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_walk_quality_v3_9
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 29
+        width: 392
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff174f65a780bd80800000000000000
+      internalID: -8236934573854351368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_walk_quality_v3_10
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 28
+        width: 425
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9439fd91d96f3010800000000000000
+      internalID: 1170770777159054493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fighter_walk_quality_v3_0: -2817815542431222938
+      fighter_walk_quality_v3_1: 1130209573569854723
+      fighter_walk_quality_v3_10: 1170770777159054493
+      fighter_walk_quality_v3_2: -7216021804334962373
+      fighter_walk_quality_v3_3: 4597509506763609109
+      fighter_walk_quality_v3_4: -9030657913774581135
+      fighter_walk_quality_v3_5: 6120162245942381128
+      fighter_walk_quality_v3_6: -2253498765178448229
+      fighter_walk_quality_v3_7: 4578819191907167335
+      fighter_walk_quality_v3_8: 3964224163938129503
+      fighter_walk_quality_v3_9: -8236934573854351368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

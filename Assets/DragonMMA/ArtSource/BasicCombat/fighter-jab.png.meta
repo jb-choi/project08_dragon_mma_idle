@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: b7ac020016cd9e949801739897f2f606
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -415683613528608953
+    second: fighter-jab_0
+  - first:
+      213: 6381188885453490479
+    second: fighter-jab_1
+  - first:
+      213: 5184514254775073684
+    second: fighter-jab_2
+  - first:
+      213: -8701087408451920477
+    second: fighter-jab_3
+  - first:
+      213: -1554202398896421507
+    second: fighter-jab_4
+  - first:
+      213: -7458941487945902008
+    second: fighter-jab_5
+  - first:
+      213: -5050747189189376442
+    second: fighter-jab_6
+  - first:
+      213: 1166924376851887770
+    second: fighter-jab_7
+  - first:
+      213: -1744430133478983547
+    second: fighter-jab_8
+  - first:
+      213: 4465767430949909935
+    second: fighter-jab_9
+  - first:
+      213: -7234310956802371337
+    second: fighter-jab_10
+  - first:
+      213: 9071125520706206391
+    second: fighter-jab_11
+  - first:
+      213: -2005026375248181231
+    second: fighter-jab_12
+  - first:
+      213: -7897859851962976063
+    second: fighter-jab_13
+  - first:
+      213: -9191755820550591368
+    second: fighter-jab_14
+  - first:
+      213: -6034693332852463822
+    second: fighter-jab_15
+  - first:
+      213: -379193888523701827
+    second: fighter-jab_16
+  - first:
+      213: -5083073805141173454
+    second: fighter-jab_17
+  - first:
+      213: -3463140721569541143
+    second: fighter-jab_18
+  - first:
+      213: -1369162517727732661
+    second: fighter-jab_19
+  - first:
+      213: -1403231400725630041
+    second: fighter-jab_20
+  - first:
+      213: 2016158801992315806
+    second: fighter-jab_21
+  - first:
+      213: -1828832606291520545
+    second: fighter-jab_22
+  - first:
+      213: -4654955216425182965
+    second: fighter-jab_23
+  - first:
+      213: -5660676903319790484
+    second: fighter-jab_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fighter-jab_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 447
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f2da4b4f13b3af0800000000000000
+      internalID: -415683613528608953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29402a7b798e8850800000000000000
+      internalID: 6381188885453490479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 733
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b31d8fe3813f740800000000000000
+      internalID: 5184514254775073684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 464
+        width: 448
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad59933a178f3780800000000000000
+      internalID: -8701087408451920477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_4
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 378
+        width: 439
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7508b8172d5e6ae0800000000000000
+      internalID: -1554202398896421507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_5
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 424
+        width: 412
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8489f826c348c7890800000000000000
+      internalID: -7458941487945902008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 636
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6468012013428e9b0800000000000000
+      internalID: -5050747189189376442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_7
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 600
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a963002c98fb13010800000000000000
+      internalID: 1166924376851887770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_8
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 598
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5887f76390a8ac7e0800000000000000
+      internalID: -1744430133478983547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 580
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5374b51d799fd30800000000000000
+      internalID: 4465767430949909935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_10
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 575
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0141983809a9b90800000000000000
+      internalID: -7234310956802371337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 442
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba7ca6a99c13ed70800000000000000
+      internalID: 9071125520706206391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_12
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1180b028227bc24e0800000000000000
+      internalID: -2005026375248181231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_13
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 458
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c87ded2f4a256290800000000000000
+      internalID: -7897859851962976063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 27
+        width: 423
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ce3fdf7c2507080800000000000000
+      internalID: -9191755820550591368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 426
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23729ee0366704ca0800000000000000
+      internalID: -6034693332852463822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_16
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 27
+        width: 386
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1bb8dda25dcbaf0800000000000000
+      internalID: -379193888523701827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_17
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 23
+        width: 386
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b97753e4b4579b0800000000000000
+      internalID: -5083073805141173454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_18
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 25
+        width: 323
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e358abbcd370ffc0800000000000000
+      internalID: -3463140721569541143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_19
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 386
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c1f0bb1f1cffce0800000000000000
+      internalID: -1369162517727732661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_20
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 323
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a33316c978b68ce0800000000000000
+      internalID: -1403231400725630041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_21
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 315
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9377839fb5dafb10800000000000000
+      internalID: 2016158801992315806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_22
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 311
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd397542f6eae96e0800000000000000
+      internalID: -1828832606291520545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_23
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 182
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0910a7c4e6466fb0800000000000000
+      internalID: -4654955216425182965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-jab_24
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 108
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c9d55195c3171b0800000000000000
+      internalID: -5660676903319790484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fighter-jab_0: -415683613528608953
+      fighter-jab_1: 6381188885453490479
+      fighter-jab_10: -7234310956802371337
+      fighter-jab_11: 9071125520706206391
+      fighter-jab_12: -2005026375248181231
+      fighter-jab_13: -7897859851962976063
+      fighter-jab_14: -9191755820550591368
+      fighter-jab_15: -6034693332852463822
+      fighter-jab_16: -379193888523701827
+      fighter-jab_17: -5083073805141173454
+      fighter-jab_18: -3463140721569541143
+      fighter-jab_19: -1369162517727732661
+      fighter-jab_2: 5184514254775073684
+      fighter-jab_20: -1403231400725630041
+      fighter-jab_21: 2016158801992315806
+      fighter-jab_22: -1828832606291520545
+      fighter-jab_23: -4654955216425182965
+      fighter-jab_24: -5660676903319790484
+      fighter-jab_3: -8701087408451920477
+      fighter-jab_4: -1554202398896421507
+      fighter-jab_5: -7458941487945902008
+      fighter-jab_6: -5050747189189376442
+      fighter-jab_7: 1166924376851887770
+      fighter-jab_8: -1744430133478983547
+      fighter-jab_9: 4465767430949909935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2202 @@
+fileFormatVersion: 2
+guid: f517ef7e12e6cac4a90cd2e72ea175ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3665251928955915346
+    second: dragon_2_0
+  - first:
+      213: -8916581795714313636
+    second: dragon_2_1
+  - first:
+      213: -2216683020865215677
+    second: dragon_2_2
+  - first:
+      213: -6918162776052155348
+    second: dragon_2_3
+  - first:
+      213: 2127485510806840710
+    second: dragon_2_4
+  - first:
+      213: 1479016872171330123
+    second: dragon_2_5
+  - first:
+      213: -2636392879333540947
+    second: dragon_2_6
+  - first:
+      213: 2033392949551140897
+    second: dragon_2_7
+  - first:
+      213: 7604350987792836984
+    second: dragon_2_8
+  - first:
+      213: -9080773795801513696
+    second: dragon_2_9
+  - first:
+      213: 1475062527854512536
+    second: dragon_2_10
+  - first:
+      213: 4270593270258604217
+    second: dragon_2_11
+  - first:
+      213: -2205113664879471179
+    second: dragon_2_12
+  - first:
+      213: 5902113895838088332
+    second: dragon_2_13
+  - first:
+      213: -7135554024222549610
+    second: dragon_2_14
+  - first:
+      213: 6429695148917906575
+    second: dragon_2_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon_2_idle_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1030
+        width: 194
+        height: 120
+      alignment: 9
+      pivot: {x: 0.28718704, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -97, y: 3}
+        - {x: -96, y: -16}
+        - {x: -95, y: -19}
+        - {x: -94, y: -21}
+        - {x: -69, y: -57}
+        - {x: -68, y: -58}
+        - {x: -62, y: -59}
+        - {x: -40, y: -60}
+        - {x: 29, y: -60}
+        - {x: 35, y: -59}
+        - {x: 37, y: -58}
+        - {x: 75, y: -29}
+        - {x: 82, y: -22}
+        - {x: 90, y: -10}
+        - {x: 91, y: -8}
+        - {x: 92, y: -5}
+        - {x: 94, y: 2}
+        - {x: 95, y: 7}
+        - {x: 97, y: 23}
+        - {x: 97, y: 30}
+        - {x: 95, y: 40}
+        - {x: 93, y: 46}
+        - {x: 90, y: 51}
+        - {x: 86, y: 55}
+        - {x: 83, y: 57}
+        - {x: 81, y: 58}
+        - {x: 73, y: 60}
+        - {x: 69, y: 60}
+        - {x: -44, y: 49}
+        - {x: -58, y: 45}
+        - {x: -64, y: 42}
+        - {x: -72, y: 37}
+        - {x: -75, y: 35}
+        - {x: -82, y: 30}
+        - {x: -84, y: 28}
+        - {x: -95, y: 14}
+        - {x: -97, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c6531927160a4d98603c65dc0d310
+      internalID: -1795484547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_idle_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1030
+        width: 184
+        height: 122
+      alignment: 9
+      pivot: {x: 0.30279502, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92, y: 1}
+        - {x: -90, y: -18}
+        - {x: -89, y: -21}
+        - {x: -87, y: -25}
+        - {x: -67, y: -58}
+        - {x: -66, y: -59}
+        - {x: -64, y: -60}
+        - {x: -30, y: -61}
+        - {x: 38, y: -61}
+        - {x: 40, y: -60}
+        - {x: 71, y: -33}
+        - {x: 74, y: -30}
+        - {x: 78, y: -25}
+        - {x: 84, y: -16}
+        - {x: 86, y: -12}
+        - {x: 89, y: -5}
+        - {x: 92, y: 9}
+        - {x: 92, y: 25}
+        - {x: 90, y: 34}
+        - {x: 88, y: 42}
+        - {x: 87, y: 45}
+        - {x: 86, y: 47}
+        - {x: 84, y: 50}
+        - {x: 80, y: 55}
+        - {x: 77, y: 57}
+        - {x: 73, y: 59}
+        - {x: 67, y: 61}
+        - {x: 63, y: 61}
+        - {x: -43, y: 48}
+        - {x: -61, y: 43}
+        - {x: -71, y: 35}
+        - {x: -78, y: 29}
+        - {x: -80, y: 27}
+        - {x: -88, y: 16}
+        - {x: -92, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2be8f20c6473f74898f53b0a65ec274
+      internalID: 1581815304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_idle_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1030
+        width: 182
+        height: 124
+      alignment: 9
+      pivot: {x: 0.30612245, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -91, y: 1}
+        - {x: -89, y: -20}
+        - {x: -73, y: -58}
+        - {x: -71, y: -60}
+        - {x: -68, y: -61}
+        - {x: -41, y: -62}
+        - {x: 25, y: -62}
+        - {x: 34, y: -61}
+        - {x: 72, y: -29}
+        - {x: 74, y: -27}
+        - {x: 77, y: -23}
+        - {x: 83, y: -12}
+        - {x: 86, y: -6}
+        - {x: 88, y: 0}
+        - {x: 89, y: 4}
+        - {x: 91, y: 15}
+        - {x: 91, y: 26}
+        - {x: 90, y: 34}
+        - {x: 89, y: 41}
+        - {x: 87, y: 47}
+        - {x: 84, y: 53}
+        - {x: 82, y: 56}
+        - {x: 76, y: 61}
+        - {x: 71, y: 62}
+        - {x: 63, y: 62}
+        - {x: -44, y: 48}
+        - {x: -61, y: 45}
+        - {x: -76, y: 31}
+        - {x: -78, y: 29}
+        - {x: -90, y: 11}
+        - {x: -91, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027c614e33ecaa64ebf6e9bec4759bff
+      internalID: 421170297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_idle_3
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1030
+        width: 184
+        height: 120
+      alignment: 9
+      pivot: {x: 0.30279502, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92, y: 0}
+        - {x: -90, y: -21}
+        - {x: -89, y: -23}
+        - {x: -70, y: -57}
+        - {x: -67, y: -59}
+        - {x: -41, y: -60}
+        - {x: 31, y: -60}
+        - {x: 36, y: -59}
+        - {x: 66, y: -36}
+        - {x: 71, y: -32}
+        - {x: 80, y: -23}
+        - {x: 84, y: -17}
+        - {x: 85, y: -15}
+        - {x: 89, y: -5}
+        - {x: 91, y: 1}
+        - {x: 92, y: 9}
+        - {x: 92, y: 25}
+        - {x: 91, y: 33}
+        - {x: 89, y: 38}
+        - {x: 85, y: 47}
+        - {x: 84, y: 49}
+        - {x: 77, y: 56}
+        - {x: 71, y: 59}
+        - {x: 67, y: 60}
+        - {x: 60, y: 60}
+        - {x: -40, y: 47}
+        - {x: -57, y: 44}
+        - {x: -78, y: 28}
+        - {x: -89, y: 14}
+        - {x: -92, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2984fe7d9931e4d9f7d4462821a05d
+      internalID: -120498410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_idle_4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1030
+        width: 186
+        height: 120
+      alignment: 9
+      pivot: {x: 0.29953918, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -93, y: 3}
+        - {x: -90, y: -22}
+        - {x: -89, y: -24}
+        - {x: -71, y: -57}
+        - {x: -70, y: -58}
+        - {x: -66, y: -59}
+        - {x: -38, y: -60}
+        - {x: 35, y: -60}
+        - {x: 67, y: -36}
+        - {x: 73, y: -31}
+        - {x: 80, y: -24}
+        - {x: 83, y: -20}
+        - {x: 86, y: -14}
+        - {x: 90, y: -4}
+        - {x: 92, y: 3}
+        - {x: 93, y: 10}
+        - {x: 93, y: 26}
+        - {x: 92, y: 35}
+        - {x: 90, y: 41}
+        - {x: 86, y: 49}
+        - {x: 84, y: 52}
+        - {x: 81, y: 55}
+        - {x: 73, y: 59}
+        - {x: 68, y: 60}
+        - {x: 61, y: 60}
+        - {x: -44, y: 49}
+        - {x: -62, y: 43}
+        - {x: -72, y: 37}
+        - {x: -80, y: 29}
+        - {x: -83, y: 25}
+        - {x: -93, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead4019150a2d0144982443296eae1aa
+      internalID: -1459210834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1030
+        width: 182
+        height: 121
+      alignment: 9
+      pivot: {x: 0.30612245, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -91, y: 1.5}
+        - {x: -89, y: -19.5}
+        - {x: -72, y: -57.5}
+        - {x: -71, y: -58.5}
+        - {x: -65, y: -59.5}
+        - {x: -39, y: -60.5}
+        - {x: 26, y: -60.5}
+        - {x: 35, y: -59.5}
+        - {x: 68, y: -33.5}
+        - {x: 75, y: -26.5}
+        - {x: 78, y: -22.5}
+        - {x: 82, y: -16.5}
+        - {x: 86, y: -9.5}
+        - {x: 88, y: -5.5}
+        - {x: 90, y: 4.5}
+        - {x: 91, y: 12.5}
+        - {x: 91, y: 28.5}
+        - {x: 89, y: 35.5}
+        - {x: 87, y: 41.5}
+        - {x: 85, y: 46.5}
+        - {x: 84, y: 48.5}
+        - {x: 74, y: 58.5}
+        - {x: 72, y: 59.5}
+        - {x: 69, y: 60.5}
+        - {x: 57, y: 60.5}
+        - {x: -41, y: 48.5}
+        - {x: -58, y: 45.5}
+        - {x: -75, y: 32.5}
+        - {x: -79, y: 28.5}
+        - {x: -86, y: 18.5}
+        - {x: -91, y: 10.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d802040714ba4ba45a4822f65f5a1f2b
+      internalID: -1077146372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_walk_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 829
+        width: 190
+        height: 115
+      alignment: 9
+      pivot: {x: 0.29323307, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -95, y: 0.5}
+        - {x: -93, y: -20.5}
+        - {x: -91, y: -24.5}
+        - {x: -73, y: -54.5}
+        - {x: -72, y: -55.5}
+        - {x: -68, y: -56.5}
+        - {x: -34, y: -57.5}
+        - {x: 44, y: -57.5}
+        - {x: 72, y: -32.5}
+        - {x: 78, y: -26.5}
+        - {x: 84, y: -18.5}
+        - {x: 87, y: -13.5}
+        - {x: 91, y: -5.5}
+        - {x: 93, y: -0.5}
+        - {x: 94, y: 4.5}
+        - {x: 95, y: 11.5}
+        - {x: 95, y: 30.5}
+        - {x: 94, y: 36.5}
+        - {x: 92, y: 42.5}
+        - {x: 90, y: 46.5}
+        - {x: 87, y: 50.5}
+        - {x: 85, y: 52.5}
+        - {x: 82, y: 54.5}
+        - {x: 75, y: 57.5}
+        - {x: 67, y: 57.5}
+        - {x: -45, y: 44.5}
+        - {x: -61, y: 42.5}
+        - {x: -78, y: 29.5}
+        - {x: -82, y: 25.5}
+        - {x: -93, y: 11.5}
+        - {x: -94, y: 9.5}
+        - {x: -95, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6876925fc7ade6041ad042650dcd4b8d
+      internalID: -785628417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_walk_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 828
+        width: 191
+        height: 120
+      alignment: 9
+      pivot: {x: 0.29169783, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -95.5, y: 0}
+        - {x: -93.5, y: -22}
+        - {x: -90.5, y: -27}
+        - {x: -70.5, y: -56}
+        - {x: -69.5, y: -57}
+        - {x: -66.5, y: -58}
+        - {x: -32.5, y: -60}
+        - {x: -22.5, y: -60}
+        - {x: 40.5, y: -59}
+        - {x: 74.5, y: -27}
+        - {x: 75.5, y: -26}
+        - {x: 82.5, y: -17}
+        - {x: 85.5, y: -12}
+        - {x: 90.5, y: -2}
+        - {x: 92.5, y: 4}
+        - {x: 93.5, y: 8}
+        - {x: 94.5, y: 13}
+        - {x: 95.5, y: 20}
+        - {x: 95.5, y: 39}
+        - {x: 94.5, y: 46}
+        - {x: 93.5, y: 49}
+        - {x: 92.5, y: 51}
+        - {x: 90.5, y: 54}
+        - {x: 87.5, y: 57}
+        - {x: 84.5, y: 59}
+        - {x: 80.5, y: 60}
+        - {x: 71.5, y: 60}
+        - {x: -47.5, y: 43}
+        - {x: -64.5, y: 39}
+        - {x: -81.5, y: 26}
+        - {x: -85.5, y: 21}
+        - {x: -92.5, y: 11}
+        - {x: -94.5, y: 8}
+        - {x: -95.5, y: 5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a78e60b320f4db409473f7e0922641a
+      internalID: 220830150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_walk_2
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 828
+        width: 194
+        height: 119
+      alignment: 9
+      pivot: {x: 0.28718704, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -97, y: 8.5}
+        - {x: -96, y: -15.5}
+        - {x: -94, y: -18.5}
+        - {x: -67, y: -55.5}
+        - {x: -65, y: -57.5}
+        - {x: -32, y: -59.5}
+        - {x: 40, y: -59.5}
+        - {x: 72, y: -29.5}
+        - {x: 78, y: -23.5}
+        - {x: 84, y: -15.5}
+        - {x: 89, y: -7.5}
+        - {x: 91, y: -3.5}
+        - {x: 94, y: 5.5}
+        - {x: 96, y: 13.5}
+        - {x: 97, y: 20.5}
+        - {x: 97, y: 39.5}
+        - {x: 96, y: 44.5}
+        - {x: 94, y: 50.5}
+        - {x: 93, y: 52.5}
+        - {x: 92, y: 53.5}
+        - {x: 88, y: 56.5}
+        - {x: 85, y: 58.5}
+        - {x: 81, y: 59.5}
+        - {x: 74, y: 59.5}
+        - {x: -42, y: 51.5}
+        - {x: -59, y: 48.5}
+        - {x: -70, y: 41.5}
+        - {x: -81, y: 33.5}
+        - {x: -89, y: 24.5}
+        - {x: -94, y: 18.5}
+        - {x: -97, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdf14b2e77cc3243a5461f9c7fbd07b
+      internalID: 1803320853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_walk_3
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 828
+        width: 204
+        height: 123
+      alignment: 9
+      pivot: {x: 0.27310926, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -102, y: -1.5}
+        - {x: -100, y: -24.5}
+        - {x: -97, y: -29.5}
+        - {x: -74, y: -59.5}
+        - {x: -49, y: -61.5}
+        - {x: -27, y: -61.5}
+        - {x: 32, y: -60.5}
+        - {x: 73, y: -31.5}
+        - {x: 88, y: -16.5}
+        - {x: 90, y: -13.5}
+        - {x: 92, y: -9.5}
+        - {x: 97, y: 1.5}
+        - {x: 99, y: 7.5}
+        - {x: 100, y: 11.5}
+        - {x: 102, y: 23.5}
+        - {x: 102, y: 36.5}
+        - {x: 101, y: 41.5}
+        - {x: 100, y: 45.5}
+        - {x: 99, y: 48.5}
+        - {x: 98, y: 50.5}
+        - {x: 95, y: 55.5}
+        - {x: 93, y: 57.5}
+        - {x: 89, y: 60.5}
+        - {x: 84, y: 61.5}
+        - {x: 78, y: 61.5}
+        - {x: -66, y: 39.5}
+        - {x: -77, y: 32.5}
+        - {x: -85, y: 26.5}
+        - {x: -86, y: 25.5}
+        - {x: -92, y: 18.5}
+        - {x: -101, y: 6.5}
+        - {x: -102, y: 2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31586e3d0c5948545b7425c96407f506
+      internalID: -79332320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_walk_4
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 828
+        width: 188
+        height: 122
+      alignment: 9
+      pivot: {x: 0.2963526, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -94, y: 3}
+        - {x: -93, y: -18}
+        - {x: -92, y: -20}
+        - {x: -74, y: -53}
+        - {x: -73, y: -54}
+        - {x: -69, y: -56}
+        - {x: -37, y: -60}
+        - {x: 17, y: -61}
+        - {x: 19, y: -61}
+        - {x: 38, y: -60}
+        - {x: 67, y: -35}
+        - {x: 77, y: -25}
+        - {x: 80, y: -21}
+        - {x: 82, y: -18}
+        - {x: 89, y: -5}
+        - {x: 91, y: 1}
+        - {x: 92, y: 5}
+        - {x: 93, y: 11}
+        - {x: 94, y: 18}
+        - {x: 94, y: 35}
+        - {x: 93, y: 42}
+        - {x: 92, y: 46}
+        - {x: 90, y: 50}
+        - {x: 87, y: 54}
+        - {x: 82, y: 59}
+        - {x: 75, y: 61}
+        - {x: 68, y: 61}
+        - {x: -57, y: 43}
+        - {x: -68, y: 36}
+        - {x: -77, y: 29}
+        - {x: -85, y: 21}
+        - {x: -93, y: 11}
+        - {x: -94, y: 6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3591232adecdee247807ebcf8e69976c
+      internalID: 430429817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_walk_5
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 828
+        width: 187
+        height: 113
+      alignment: 9
+      pivot: {x: 0.29793736, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -93.5, y: 2.5}
+        - {x: -92.5, y: -16.5}
+        - {x: -74.5, y: -52.5}
+        - {x: -72.5, y: -54.5}
+        - {x: -19.5, y: -56.5}
+        - {x: -18.5, y: -56.5}
+        - {x: 41.5, y: -55.5}
+        - {x: 73.5, y: -28.5}
+        - {x: 76.5, y: -25.5}
+        - {x: 83.5, y: -16.5}
+        - {x: 85.5, y: -13.5}
+        - {x: 87.5, y: -9.5}
+        - {x: 91.5, y: 4.5}
+        - {x: 93.5, y: 12.5}
+        - {x: 93.5, y: 31.5}
+        - {x: 91.5, y: 39.5}
+        - {x: 87.5, y: 47.5}
+        - {x: 83.5, y: 51.5}
+        - {x: 79.5, y: 54.5}
+        - {x: 73.5, y: 56.5}
+        - {x: 69.5, y: 56.5}
+        - {x: -42.5, y: 46.5}
+        - {x: -58.5, y: 44.5}
+        - {x: -69.5, y: 37.5}
+        - {x: -77.5, y: 31.5}
+        - {x: -79.5, y: 29.5}
+        - {x: -84.5, y: 23.5}
+        - {x: -91.5, y: 14.5}
+        - {x: -93.5, y: 9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c297bdf5afbcb6f4db3d2e25083e830c
+      internalID: 281663511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_windup_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 604
+        width: 194
+        height: 111
+      alignment: 9
+      pivot: {x: 0.28718704, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -97, y: -12.5}
+        - {x: -91, y: -33.5}
+        - {x: -89, y: -36.5}
+        - {x: -86, y: -39.5}
+        - {x: -67, y: -52.5}
+        - {x: -65, y: -53.5}
+        - {x: -38, y: -55.5}
+        - {x: -13, y: -55.5}
+        - {x: 47, y: -54.5}
+        - {x: 79, y: -26.5}
+        - {x: 84, y: -21.5}
+        - {x: 90, y: -13.5}
+        - {x: 93, y: -7.5}
+        - {x: 96, y: 1.5}
+        - {x: 97, y: 7.5}
+        - {x: 97, y: 22.5}
+        - {x: 96, y: 28.5}
+        - {x: 93, y: 37.5}
+        - {x: 92, y: 39.5}
+        - {x: 90, y: 42.5}
+        - {x: 87, y: 46.5}
+        - {x: 83, y: 49.5}
+        - {x: 78, y: 52.5}
+        - {x: 74, y: 54.5}
+        - {x: 70, y: 55.5}
+        - {x: 61, y: 55.5}
+        - {x: -54, y: 38.5}
+        - {x: -72, y: 29.5}
+        - {x: -81, y: 21.5}
+        - {x: -87, y: 13.5}
+        - {x: -91, y: 7.5}
+        - {x: -97, y: -5.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a50c914f018f743863d7a82b4bc7f4
+      internalID: 1733105499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_windup_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 604
+        width: 196
+        height: 117
+      alignment: 9
+      pivot: {x: 0.28425655, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -98, y: -16.5}
+        - {x: -94, y: -36.5}
+        - {x: -92, y: -39.5}
+        - {x: -90, y: -41.5}
+        - {x: -65, y: -56.5}
+        - {x: -36, y: -58.5}
+        - {x: -12, y: -58.5}
+        - {x: 43, y: -57.5}
+        - {x: 45, y: -56.5}
+        - {x: 79, y: -29.5}
+        - {x: 87, y: -20.5}
+        - {x: 91, y: -14.5}
+        - {x: 94, y: -8.5}
+        - {x: 97, y: 0.5}
+        - {x: 98, y: 6.5}
+        - {x: 98, y: 21.5}
+        - {x: 96, y: 28.5}
+        - {x: 92, y: 40.5}
+        - {x: 89, y: 44.5}
+        - {x: 84, y: 49.5}
+        - {x: 75, y: 55.5}
+        - {x: 67, y: 58.5}
+        - {x: 61, y: 58.5}
+        - {x: -66, y: 29.5}
+        - {x: -77, y: 20.5}
+        - {x: -85, y: 13.5}
+        - {x: -90, y: 6.5}
+        - {x: -98, y: -6.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ce1526f711e0e43969b2dadf5f61ed
+      internalID: -1395556936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_windup_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 605
+        width: 190
+        height: 135
+      alignment: 9
+      pivot: {x: 0.29323307, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -95, y: -28.5}
+        - {x: -91, y: -46.5}
+        - {x: -88, y: -50.5}
+        - {x: -87, y: -51.5}
+        - {x: -85, y: -52.5}
+        - {x: -53, y: -66.5}
+        - {x: -29, y: -67.5}
+        - {x: 58, y: -67.5}
+        - {x: 61, y: -65.5}
+        - {x: 88, y: -19.5}
+        - {x: 91, y: -13.5}
+        - {x: 94, y: -5.5}
+        - {x: 95, y: 1.5}
+        - {x: 95, y: 16.5}
+        - {x: 94, y: 21.5}
+        - {x: 92, y: 28.5}
+        - {x: 90, y: 33.5}
+        - {x: 87, y: 39.5}
+        - {x: 85, y: 42.5}
+        - {x: 80, y: 49.5}
+        - {x: 73, y: 56.5}
+        - {x: 64, y: 62.5}
+        - {x: 60, y: 64.5}
+        - {x: 56, y: 65.5}
+        - {x: 47, y: 67.5}
+        - {x: 41, y: 67.5}
+        - {x: 31, y: 64.5}
+        - {x: 29, y: 63.5}
+        - {x: -63, y: 13.5}
+        - {x: -77, y: 4.5}
+        - {x: -82, y: -0.5}
+        - {x: -87, y: -6.5}
+        - {x: -93, y: -15.5}
+        - {x: -95, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6e72189fdac1843815420001b64ed5
+      internalID: -2079334233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_windup_3
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 604
+        width: 176
+        height: 138
+      alignment: 9
+      pivot: {x: 0.31655845, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -88, y: -29}
+        - {x: -85, y: -46}
+        - {x: -84, y: -48}
+        - {x: -82, y: -51}
+        - {x: -80, y: -53}
+        - {x: -56, y: -68}
+        - {x: -33, y: -69}
+        - {x: 56, y: -69}
+        - {x: 58, y: -68}
+        - {x: 59, y: -67}
+        - {x: 82, y: -26}
+        - {x: 86, y: -18}
+        - {x: 87, y: -14}
+        - {x: 88, y: -8}
+        - {x: 88, y: 9}
+        - {x: 87, y: 14}
+        - {x: 86, y: 17}
+        - {x: 83, y: 24}
+        - {x: 82, y: 26}
+        - {x: 79, y: 31}
+        - {x: 72, y: 41}
+        - {x: 65, y: 48}
+        - {x: 61, y: 51}
+        - {x: 54, y: 56}
+        - {x: 38, y: 64}
+        - {x: 23, y: 68}
+        - {x: 19, y: 69}
+        - {x: 13, y: 69}
+        - {x: 3, y: 67}
+        - {x: -2, y: 65}
+        - {x: -71, y: 2}
+        - {x: -76, y: -3}
+        - {x: -86, y: -16}
+        - {x: -88, y: -19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530b3baa18483834cb3d2070dd2249e4
+      internalID: -775980031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_windup_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 603
+        width: 186
+        height: 140
+      alignment: 9
+      pivot: {x: 0.29953918, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -93, y: -20}
+        - {x: -91, y: -40}
+        - {x: -90, y: -43}
+        - {x: -89, y: -45}
+        - {x: -77, y: -63}
+        - {x: -74, y: -66}
+        - {x: -70, y: -67}
+        - {x: -38, y: -70}
+        - {x: 51, y: -70}
+        - {x: 54, y: -67}
+        - {x: 82, y: -27}
+        - {x: 84, y: -24}
+        - {x: 87, y: -19}
+        - {x: 91, y: -7}
+        - {x: 93, y: 1}
+        - {x: 93, y: 15}
+        - {x: 90, y: 27}
+        - {x: 88, y: 33}
+        - {x: 85, y: 40}
+        - {x: 84, y: 42}
+        - {x: 80, y: 47}
+        - {x: 71, y: 56}
+        - {x: 67, y: 59}
+        - {x: 55, y: 65}
+        - {x: 37, y: 70}
+        - {x: 32, y: 70}
+        - {x: 21, y: 68}
+        - {x: 16, y: 67}
+        - {x: 13, y: 66}
+        - {x: 9, y: 64}
+        - {x: -73, y: 11}
+        - {x: -81, y: 3}
+        - {x: -87, y: -4}
+        - {x: -91, y: -10}
+        - {x: -93, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6763bb4612ee48644a2812b9c5a5be6a
+      internalID: -103573545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_windup_5
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 603
+        width: 172
+        height: 150
+      alignment: 9
+      pivot: {x: 0.32392025, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -86, y: -35}
+        - {x: -80, y: -57}
+        - {x: -64, y: -73}
+        - {x: -60, y: -75}
+        - {x: 59, y: -75}
+        - {x: 62, y: -72}
+        - {x: 85, y: -3}
+        - {x: 86, y: 4}
+        - {x: 86, y: 20}
+        - {x: 85, y: 26}
+        - {x: 80, y: 39}
+        - {x: 75, y: 46}
+        - {x: 68, y: 53}
+        - {x: 63, y: 57}
+        - {x: 57, y: 61}
+        - {x: 46, y: 66}
+        - {x: 43, y: 67}
+        - {x: 33, y: 70}
+        - {x: 24, y: 72}
+        - {x: 8, y: 75}
+        - {x: -11, y: 75}
+        - {x: -23, y: 73}
+        - {x: -31, y: 71}
+        - {x: -47, y: 63}
+        - {x: -50, y: 61}
+        - {x: -55, y: 55}
+        - {x: -56, y: 53}
+        - {x: -86, y: -25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7c5fc6f4235cc47ab7747863c0b924
+      internalID: 1351576814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_attack_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 381
+        width: 184
+        height: 151
+      alignment: 9
+      pivot: {x: 0.30279502, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92, y: -26.5}
+        - {x: -87, y: -47.5}
+        - {x: -84, y: -52.5}
+        - {x: -69, y: -71.5}
+        - {x: -68, y: -72.5}
+        - {x: -65, y: -73.5}
+        - {x: -23, y: -75.5}
+        - {x: -4, y: -75.5}
+        - {x: 48, y: -74.5}
+        - {x: 49, y: -73.5}
+        - {x: 84, y: -11.5}
+        - {x: 89, y: -1.5}
+        - {x: 92, y: 12.5}
+        - {x: 92, y: 24.5}
+        - {x: 90, y: 32.5}
+        - {x: 87, y: 41.5}
+        - {x: 82, y: 49.5}
+        - {x: 80, y: 52.5}
+        - {x: 74, y: 58.5}
+        - {x: 70, y: 61.5}
+        - {x: 63, y: 66.5}
+        - {x: 59, y: 68.5}
+        - {x: 52, y: 71.5}
+        - {x: 49, y: 72.5}
+        - {x: 35, y: 75.5}
+        - {x: 28, y: 75.5}
+        - {x: 19, y: 74.5}
+        - {x: 14, y: 73.5}
+        - {x: 9, y: 71.5}
+        - {x: -60, y: 20.5}
+        - {x: -75, y: 7.5}
+        - {x: -80, y: 2.5}
+        - {x: -90, y: -12.5}
+        - {x: -91, y: -14.5}
+        - {x: -92, y: -17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408858315b6b6d443802d47547aaf547
+      internalID: 971970114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_attack_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 382
+        width: 202
+        height: 142
+      alignment: 9
+      pivot: {x: 0.27581328, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -101, y: -27}
+        - {x: -98, y: -47}
+        - {x: -92, y: -53}
+        - {x: -75, y: -69}
+        - {x: -72, y: -70}
+        - {x: -29, y: -71}
+        - {x: 39, y: -71}
+        - {x: 82, y: -31}
+        - {x: 88, y: -23}
+        - {x: 92, y: -16}
+        - {x: 96, y: -8}
+        - {x: 98, y: -3}
+        - {x: 101, y: 8}
+        - {x: 101, y: 21}
+        - {x: 99, y: 29}
+        - {x: 96, y: 36}
+        - {x: 93, y: 42}
+        - {x: 87, y: 51}
+        - {x: 83, y: 55}
+        - {x: 76, y: 60}
+        - {x: 72, y: 62}
+        - {x: 60, y: 67}
+        - {x: 46, y: 71}
+        - {x: 28, y: 71}
+        - {x: 23, y: 69}
+        - {x: -68, y: 19}
+        - {x: -77, y: 13}
+        - {x: -84, y: 8}
+        - {x: -86, y: 6}
+        - {x: -93, y: -3}
+        - {x: -98, y: -10}
+        - {x: -100, y: -13}
+        - {x: -101, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ae4e8beb4f2914791f681b47feccda
+      internalID: 995598007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_attack_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 381
+        width: 194
+        height: 105
+      alignment: 9
+      pivot: {x: 0.28718704, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -97, y: 0.5}
+        - {x: -92, y: -20.5}
+        - {x: -77, y: -48.5}
+        - {x: -75, y: -49.5}
+        - {x: -68, y: -50.5}
+        - {x: -16, y: -52.5}
+        - {x: -10, y: -52.5}
+        - {x: 33, y: -51.5}
+        - {x: 35, y: -50.5}
+        - {x: 68, y: -27.5}
+        - {x: 80, y: -17.5}
+        - {x: 82, y: -15.5}
+        - {x: 85, y: -11.5}
+        - {x: 89, y: -5.5}
+        - {x: 94, y: 3.5}
+        - {x: 97, y: 14.5}
+        - {x: 97, y: 25.5}
+        - {x: 96, y: 29.5}
+        - {x: 93, y: 38.5}
+        - {x: 87, y: 46.5}
+        - {x: 84, y: 48.5}
+        - {x: 80, y: 50.5}
+        - {x: 77, y: 51.5}
+        - {x: 73, y: 52.5}
+        - {x: -51, y: 52.5}
+        - {x: -69, y: 45.5}
+        - {x: -76, y: 39.5}
+        - {x: -87, y: 28.5}
+        - {x: -90, y: 23.5}
+        - {x: -97, y: 10.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8946e855b457eb488cc8e115897f719
+      internalID: -1628841886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_attack_3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 381
+        width: 221
+        height: 101
+      alignment: 9
+      pivot: {x: 0.25210083, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -110.5, y: -1.5}
+        - {x: -107.5, y: -10.5}
+        - {x: -104.5, y: -14.5}
+        - {x: -93.5, y: -22.5}
+        - {x: -42.5, y: -49.5}
+        - {x: 46.5, y: -50.5}
+        - {x: 56.5, y: -50.5}
+        - {x: 103.5, y: -13.5}
+        - {x: 106.5, y: -9.5}
+        - {x: 110.5, y: 1.5}
+        - {x: 110.5, y: 10.5}
+        - {x: 107.5, y: 18.5}
+        - {x: 106.5, y: 20.5}
+        - {x: 103.5, y: 25.5}
+        - {x: 98.5, y: 29.5}
+        - {x: 93.5, y: 32.5}
+        - {x: 89.5, y: 34.5}
+        - {x: 85.5, y: 35.5}
+        - {x: 80.5, y: 36.5}
+        - {x: -2.5, y: 50.5}
+        - {x: -6.5, y: 50.5}
+        - {x: -24.5, y: 45.5}
+        - {x: -100.5, y: 13.5}
+        - {x: -104.5, y: 11.5}
+        - {x: -106.5, y: 8.5}
+        - {x: -109.5, y: 3.5}
+        - {x: -110.5, y: 1.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad3b3ed574dbd647952b9d0f523e4ee
+      internalID: -259452630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_attack_4
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 381
+        width: 174
+        height: 154
+      alignment: 9
+      pivot: {x: 0.32019705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -87, y: -64}
+        - {x: -86, y: -65}
+        - {x: -83, y: -67}
+        - {x: -51, y: -76}
+        - {x: -13, y: -77}
+        - {x: 58, y: -77}
+        - {x: 60, y: -76}
+        - {x: 61, y: -75}
+        - {x: 62, y: -73}
+        - {x: 85, y: -5}
+        - {x: 87, y: 4}
+        - {x: 87, y: 17}
+        - {x: 85, y: 25}
+        - {x: 82, y: 34}
+        - {x: 81, y: 36}
+        - {x: 73, y: 50}
+        - {x: 71, y: 53}
+        - {x: 68, y: 57}
+        - {x: 63, y: 62}
+        - {x: 59, y: 65}
+        - {x: 53, y: 69}
+        - {x: 45, y: 73}
+        - {x: 34, y: 77}
+        - {x: 19, y: 77}
+        - {x: 11, y: 76}
+        - {x: 4, y: 74}
+        - {x: 1, y: 72}
+        - {x: -3, y: 69}
+        - {x: -6, y: 66}
+        - {x: -65, y: -3}
+        - {x: -70, y: -9}
+        - {x: -78, y: -22}
+        - {x: -79, y: -24}
+        - {x: -87, y: -60}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e0173de989f5d4e921a148f77e22b0
+      internalID: 525561617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_attack_5
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 381
+        width: 179
+        height: 125
+      alignment: 9
+      pivot: {x: 0.31125298, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -89.5, y: -7.5}
+        - {x: -86.5, y: -30.5}
+        - {x: -73.5, y: -57.5}
+        - {x: -71.5, y: -59.5}
+        - {x: -67.5, y: -60.5}
+        - {x: -21.5, y: -62.5}
+        - {x: -1.5, y: -62.5}
+        - {x: 48.5, y: -61.5}
+        - {x: 50.5, y: -59.5}
+        - {x: 77.5, y: -23.5}
+        - {x: 79.5, y: -20.5}
+        - {x: 85.5, y: -9.5}
+        - {x: 86.5, y: -6.5}
+        - {x: 87.5, y: -2.5}
+        - {x: 89.5, y: 8.5}
+        - {x: 89.5, y: 25.5}
+        - {x: 87.5, y: 34.5}
+        - {x: 85.5, y: 40.5}
+        - {x: 82.5, y: 47.5}
+        - {x: 81.5, y: 49.5}
+        - {x: 78.5, y: 53.5}
+        - {x: 70.5, y: 61.5}
+        - {x: 63.5, y: 62.5}
+        - {x: 55.5, y: 62.5}
+        - {x: -54.5, y: 32.5}
+        - {x: -63.5, y: 26.5}
+        - {x: -72.5, y: 19.5}
+        - {x: -79.5, y: 12.5}
+        - {x: -88.5, y: -0.5}
+        - {x: -89.5, y: -4.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df8333a115ccc6499343904e64a827e
+      internalID: 1313995078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_hurt_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 213
+        width: 191
+        height: 107
+      alignment: 9
+      pivot: {x: 0.29169783, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -95.5, y: 9.5}
+        - {x: -93.5, y: -8.5}
+        - {x: -80.5, y: -40.5}
+        - {x: -76.5, y: -44.5}
+        - {x: -42.5, y: -53.5}
+        - {x: 38.5, y: -53.5}
+        - {x: 72.5, y: -23.5}
+        - {x: 81.5, y: -14.5}
+        - {x: 84.5, y: -10.5}
+        - {x: 88.5, y: -4.5}
+        - {x: 91.5, y: 1.5}
+        - {x: 93.5, y: 6.5}
+        - {x: 95.5, y: 14.5}
+        - {x: 95.5, y: 22.5}
+        - {x: 93.5, y: 30.5}
+        - {x: 90.5, y: 37.5}
+        - {x: 84.5, y: 43.5}
+        - {x: 80.5, y: 46.5}
+        - {x: 74.5, y: 48.5}
+        - {x: -30.5, y: 53.5}
+        - {x: -52.5, y: 53.5}
+        - {x: -62.5, y: 49.5}
+        - {x: -74.5, y: 42.5}
+        - {x: -78.5, y: 39.5}
+        - {x: -86.5, y: 32.5}
+        - {x: -87.5, y: 31.5}
+        - {x: -92.5, y: 23.5}
+        - {x: -95.5, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6247ddad67bdc564d97212fab22ec86c
+      internalID: 1873177162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_hurt_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 213
+        width: 182
+        height: 111
+      alignment: 9
+      pivot: {x: 0.30612245, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -91, y: 13.5}
+        - {x: -90, y: -5.5}
+        - {x: -89, y: -8.5}
+        - {x: -76, y: -42.5}
+        - {x: -72, y: -46.5}
+        - {x: -39, y: -54.5}
+        - {x: -32, y: -55.5}
+        - {x: 34, y: -55.5}
+        - {x: 38, y: -53.5}
+        - {x: 71, y: -32.5}
+        - {x: 80, y: -23.5}
+        - {x: 86, y: -11.5}
+        - {x: 88, y: -5.5}
+        - {x: 91, y: 6.5}
+        - {x: 91, y: 26.5}
+        - {x: 90, y: 31.5}
+        - {x: 89, y: 35.5}
+        - {x: 87, y: 39.5}
+        - {x: 83, y: 45.5}
+        - {x: 79, y: 49.5}
+        - {x: 74, y: 51.5}
+        - {x: 71, y: 52.5}
+        - {x: -27, y: 55.5}
+        - {x: -28, y: 55.5}
+        - {x: -49, y: 53.5}
+        - {x: -60, y: 49.5}
+        - {x: -71, y: 42.5}
+        - {x: -79, y: 36.5}
+        - {x: -88, y: 27.5}
+        - {x: -90, y: 24.5}
+        - {x: -91, y: 20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a49af2dc957b14e9bffedc25e844a3
+      internalID: -1868784095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_hurt_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 210
+        width: 183
+        height: 106
+      alignment: 9
+      pivot: {x: 0.30444965, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -91.5, y: 9}
+        - {x: -88.5, y: -10}
+        - {x: -86.5, y: -14}
+        - {x: -68.5, y: -45}
+        - {x: -66.5, y: -47}
+        - {x: -39.5, y: -51}
+        - {x: 13.5, y: -53}
+        - {x: 28.5, y: -53}
+        - {x: 36.5, y: -52}
+        - {x: 71.5, y: -28}
+        - {x: 75.5, y: -24}
+        - {x: 82.5, y: -16}
+        - {x: 86.5, y: -9}
+        - {x: 88.5, y: -5}
+        - {x: 89.5, y: -2}
+        - {x: 90.5, y: 3}
+        - {x: 91.5, y: 9}
+        - {x: 91.5, y: 30}
+        - {x: 90.5, y: 37}
+        - {x: 89.5, y: 40}
+        - {x: 86.5, y: 46}
+        - {x: 81.5, y: 50}
+        - {x: 72.5, y: 53}
+        - {x: 66.5, y: 53}
+        - {x: -40.5, y: 52}
+        - {x: -57.5, y: 48}
+        - {x: -67.5, y: 43}
+        - {x: -75.5, y: 37}
+        - {x: -77.5, y: 35}
+        - {x: -88.5, y: 22}
+        - {x: -91.5, y: 17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c762685954ca56248bace34c777f07b4
+      internalID: 1129183006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_hurt_3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 210
+        width: 194
+        height: 99
+      alignment: 9
+      pivot: {x: 0.28718704, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -97, y: -10.5}
+        - {x: -78, y: -46.5}
+        - {x: -77, y: -47.5}
+        - {x: -62, y: -48.5}
+        - {x: -35, y: -49.5}
+        - {x: 29, y: -49.5}
+        - {x: 38, y: -48.5}
+        - {x: 40, y: -47.5}
+        - {x: 71, y: -31.5}
+        - {x: 75, y: -28.5}
+        - {x: 81, y: -22.5}
+        - {x: 87, y: -15.5}
+        - {x: 89, y: -12.5}
+        - {x: 93, y: -4.5}
+        - {x: 96, y: 4.5}
+        - {x: 97, y: 10.5}
+        - {x: 97, y: 24.5}
+        - {x: 96, y: 28.5}
+        - {x: 93, y: 35.5}
+        - {x: 92, y: 37.5}
+        - {x: 89, y: 40.5}
+        - {x: 87, y: 41.5}
+        - {x: 80, y: 44.5}
+        - {x: -38, y: 49.5}
+        - {x: -55, y: 49.5}
+        - {x: -67, y: 44.5}
+        - {x: -77, y: 38.5}
+        - {x: -84, y: 32.5}
+        - {x: -87, y: 29.5}
+        - {x: -97, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a3613b581afd84ca4b8842eee4a76a
+      internalID: 626874475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_hurt_4
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 210
+        width: 180
+        height: 114
+      alignment: 9
+      pivot: {x: 0.30952382, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -90, y: 3}
+        - {x: -89, y: -14}
+        - {x: -88, y: -17}
+        - {x: -72, y: -52}
+        - {x: -71, y: -53}
+        - {x: -64, y: -54}
+        - {x: -32, y: -57}
+        - {x: 30, y: -57}
+        - {x: 41, y: -56}
+        - {x: 43, y: -55}
+        - {x: 75, y: -25}
+        - {x: 76, y: -24}
+        - {x: 79, y: -20}
+        - {x: 82, y: -15}
+        - {x: 83, y: -13}
+        - {x: 86, y: -6}
+        - {x: 88, y: 0}
+        - {x: 89, y: 6}
+        - {x: 90, y: 13}
+        - {x: 90, y: 31}
+        - {x: 89, y: 37}
+        - {x: 88, y: 39}
+        - {x: 82, y: 49}
+        - {x: 80, y: 52}
+        - {x: 77, y: 54}
+        - {x: 75, y: 55}
+        - {x: 68, y: 57}
+        - {x: 66, y: 57}
+        - {x: -39, y: 48}
+        - {x: -58, y: 44}
+        - {x: -67, y: 38}
+        - {x: -74, y: 33}
+        - {x: -79, y: 28}
+        - {x: -88, y: 17}
+        - {x: -90, y: 13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0c2d4e935481246998b30d26e5f8bc
+      internalID: 389363988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_hurt_5
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 210
+        width: 184
+        height: 98
+      alignment: 9
+      pivot: {x: 0.30279502, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92, y: 0}
+        - {x: -90, y: -19}
+        - {x: -88, y: -22}
+        - {x: -69, y: -46}
+        - {x: -68, y: -47}
+        - {x: -35, y: -49}
+        - {x: 40, y: -49}
+        - {x: 68, y: -35}
+        - {x: 76, y: -30}
+        - {x: 81, y: -24}
+        - {x: 85, y: -19}
+        - {x: 87, y: -16}
+        - {x: 89, y: -12}
+        - {x: 92, y: 0}
+        - {x: 92, y: 14}
+        - {x: 91, y: 21}
+        - {x: 89, y: 27}
+        - {x: 87, y: 31}
+        - {x: 84, y: 36}
+        - {x: 82, y: 39}
+        - {x: 79, y: 42}
+        - {x: 76, y: 44}
+        - {x: 72, y: 46}
+        - {x: 67, y: 47}
+        - {x: -38, y: 49}
+        - {x: -41, y: 49}
+        - {x: -58, y: 46}
+        - {x: -68, y: 39}
+        - {x: -74, y: 34}
+        - {x: -79, y: 29}
+        - {x: -83, y: 24}
+        - {x: -92, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abfbd9e95f17ce45a56ec48229200f8
+      internalID: 472531579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_defeat_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 42
+        width: 190
+        height: 98
+      alignment: 9
+      pivot: {x: 0.29323307, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -95, y: -8}
+        - {x: -94, y: -13}
+        - {x: -88, y: -31}
+        - {x: -85, y: -36}
+        - {x: -80, y: -38}
+        - {x: -48, y: -46}
+        - {x: -31, y: -49}
+        - {x: 49, y: -49}
+        - {x: 78, y: -25}
+        - {x: 82, y: -20}
+        - {x: 88, y: -12}
+        - {x: 90, y: -9}
+        - {x: 92, y: -5}
+        - {x: 93, y: -1}
+        - {x: 95, y: 8}
+        - {x: 95, y: 24}
+        - {x: 93, y: 32}
+        - {x: 92, y: 35}
+        - {x: 89, y: 41}
+        - {x: 87, y: 43}
+        - {x: 83, y: 46}
+        - {x: 75, y: 49}
+        - {x: 67, y: 49}
+        - {x: -23, y: 47}
+        - {x: -45, y: 43}
+        - {x: -61, y: 34}
+        - {x: -70, y: 27}
+        - {x: -76, y: 22}
+        - {x: -84, y: 14}
+        - {x: -94, y: -1}
+        - {x: -95, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db584e2cb01ddb2419a546bc60d5206a
+      internalID: 1256658873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_defeat_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 42
+        width: 199
+        height: 97
+      alignment: 9
+      pivot: {x: 0.27997127, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -99.5, y: -14.5}
+        - {x: -93.5, y: -34.5}
+        - {x: -91.5, y: -38.5}
+        - {x: -87.5, y: -42.5}
+        - {x: -84.5, y: -43.5}
+        - {x: -52.5, y: -48.5}
+        - {x: 39.5, y: -48.5}
+        - {x: 69.5, y: -32.5}
+        - {x: 75.5, y: -28.5}
+        - {x: 79.5, y: -25.5}
+        - {x: 85.5, y: -19.5}
+        - {x: 88.5, y: -14.5}
+        - {x: 92.5, y: -7.5}
+        - {x: 98.5, y: 7.5}
+        - {x: 99.5, y: 12.5}
+        - {x: 99.5, y: 29.5}
+        - {x: 98.5, y: 34.5}
+        - {x: 95.5, y: 40.5}
+        - {x: 93.5, y: 42.5}
+        - {x: 89.5, y: 45.5}
+        - {x: 82.5, y: 48.5}
+        - {x: 76.5, y: 48.5}
+        - {x: -59.5, y: 38.5}
+        - {x: -67.5, y: 34.5}
+        - {x: -79.5, y: 25.5}
+        - {x: -85.5, y: 19.5}
+        - {x: -88.5, y: 15.5}
+        - {x: -98.5, y: -1.5}
+        - {x: -99.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d949ad91dd487864082b6b676d694f77
+      internalID: -1807248110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_defeat_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 42
+        width: 191
+        height: 85
+      alignment: 9
+      pivot: {x: 0.29169783, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -95.5, y: -7.5}
+        - {x: -93.5, y: -26.5}
+        - {x: -91.5, y: -29.5}
+        - {x: -88.5, y: -32.5}
+        - {x: -86.5, y: -33.5}
+        - {x: -64.5, y: -38.5}
+        - {x: -43.5, y: -40.5}
+        - {x: 5.5, y: -42.5}
+        - {x: 31.5, y: -42.5}
+        - {x: 60.5, y: -35.5}
+        - {x: 66.5, y: -33.5}
+        - {x: 70.5, y: -31.5}
+        - {x: 76.5, y: -27.5}
+        - {x: 85.5, y: -18.5}
+        - {x: 88.5, y: -13.5}
+        - {x: 92.5, y: -5.5}
+        - {x: 95.5, y: 6.5}
+        - {x: 95.5, y: 22.5}
+        - {x: 93.5, y: 28.5}
+        - {x: 92.5, y: 30.5}
+        - {x: 87.5, y: 37.5}
+        - {x: 83.5, y: 40.5}
+        - {x: 77.5, y: 42.5}
+        - {x: 68.5, y: 42.5}
+        - {x: -38.5, y: 41.5}
+        - {x: -55.5, y: 38.5}
+        - {x: -67.5, y: 31.5}
+        - {x: -73.5, y: 27.5}
+        - {x: -77.5, y: 24.5}
+        - {x: -86.5, y: 15.5}
+        - {x: -92.5, y: 7.5}
+        - {x: -94.5, y: 4.5}
+        - {x: -95.5, y: 2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf664f0ec8f3b1d4882122420a60e0ef
+      internalID: 1420325299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_defeat_3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 42
+        width: 196
+        height: 74
+      alignment: 9
+      pivot: {x: 0.28425655, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -98, y: -31}
+        - {x: -97, y: -34}
+        - {x: -94, y: -36}
+        - {x: -88, y: -37}
+        - {x: 41, y: -37}
+        - {x: 60, y: -32}
+        - {x: 67, y: -30}
+        - {x: 72, y: -28}
+        - {x: 74, y: -27}
+        - {x: 82, y: -21}
+        - {x: 91, y: -12}
+        - {x: 93, y: -9}
+        - {x: 96, y: -3}
+        - {x: 97, y: 0}
+        - {x: 98, y: 5}
+        - {x: 98, y: 16}
+        - {x: 92, y: 28}
+        - {x: 90, y: 30}
+        - {x: 87, y: 32}
+        - {x: 85, y: 33}
+        - {x: 80, y: 35}
+        - {x: 73, y: 37}
+        - {x: 67, y: 37}
+        - {x: -36, y: 30}
+        - {x: -57, y: 28}
+        - {x: -68, y: 24}
+        - {x: -79, y: 17}
+        - {x: -82, y: 15}
+        - {x: -87, y: 10}
+        - {x: -96, y: -1}
+        - {x: -98, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234aeab0a5892d34990973b9a6961b69
+      internalID: -1256967777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_defeat_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 40
+        width: 190
+        height: 60
+      alignment: 9
+      pivot: {x: 0.29323307, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -95, y: -23}
+        - {x: -94, y: -25}
+        - {x: -93, y: -26}
+        - {x: -91, y: -27}
+        - {x: -86, y: -29}
+        - {x: -53, y: -30}
+        - {x: 46, y: -30}
+        - {x: 61, y: -27}
+        - {x: 68, y: -25}
+        - {x: 76, y: -22}
+        - {x: 81, y: -19}
+        - {x: 88, y: -12}
+        - {x: 92, y: -6}
+        - {x: 94, y: -1}
+        - {x: 95, y: 3}
+        - {x: 95, y: 14}
+        - {x: 92, y: 21}
+        - {x: 91, y: 23}
+        - {x: 87, y: 27}
+        - {x: 80, y: 30}
+        - {x: 71, y: 30}
+        - {x: -43, y: 28}
+        - {x: -54, y: 26}
+        - {x: -58, y: 25}
+        - {x: -61, y: 24}
+        - {x: -70, y: 20}
+        - {x: -72, y: 19}
+        - {x: -78, y: 15}
+        - {x: -87, y: 8}
+        - {x: -90, y: 5}
+        - {x: -92, y: 2}
+        - {x: -95, y: -19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9bb106795e5cf42bce385559e9c574
+      internalID: 1634486917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_defeat_5
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 40
+        width: 185
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3011583, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92.5, y: -23}
+        - {x: -89.5, y: -26}
+        - {x: -85.5, y: -27}
+        - {x: 42.5, y: -27}
+        - {x: 65.5, y: -24}
+        - {x: 77.5, y: -21}
+        - {x: 82.5, y: -19}
+        - {x: 84.5, y: -18}
+        - {x: 87.5, y: -16}
+        - {x: 89.5, y: -14}
+        - {x: 91.5, y: -11}
+        - {x: 92.5, y: -6}
+        - {x: 92.5, y: 0}
+        - {x: 90.5, y: 5}
+        - {x: 89.5, y: 7}
+        - {x: 87.5, y: 9}
+        - {x: 81.5, y: 13}
+        - {x: 76.5, y: 15}
+        - {x: 73.5, y: 16}
+        - {x: -32.5, y: 27}
+        - {x: -49.5, y: 27}
+        - {x: -61.5, y: 24}
+        - {x: -72.5, y: 18}
+        - {x: -81.5, y: 11}
+        - {x: -88.5, y: 4}
+        - {x: -91.5, y: -2}
+        - {x: -92.5, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b50fc4402f4f3e428371fe11e7fa756
+      internalID: -1642036257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_2_portrait
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1030
+        width: 194
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -97, y: 3}
+        - {x: -96, y: -16}
+        - {x: -95, y: -19}
+        - {x: -94, y: -21}
+        - {x: -69, y: -57}
+        - {x: -68, y: -58}
+        - {x: -62, y: -59}
+        - {x: -40, y: -60}
+        - {x: 29, y: -60}
+        - {x: 35, y: -59}
+        - {x: 37, y: -58}
+        - {x: 75, y: -29}
+        - {x: 82, y: -22}
+        - {x: 90, y: -10}
+        - {x: 91, y: -8}
+        - {x: 92, y: -5}
+        - {x: 94, y: 2}
+        - {x: 95, y: 7}
+        - {x: 97, y: 23}
+        - {x: 97, y: 30}
+        - {x: 95, y: 40}
+        - {x: 93, y: 46}
+        - {x: 90, y: 51}
+        - {x: 86, y: 55}
+        - {x: 83, y: 57}
+        - {x: 81, y: 58}
+        - {x: 73, y: 60}
+        - {x: 69, y: 60}
+        - {x: -44, y: 49}
+        - {x: -58, y: 45}
+        - {x: -64, y: 42}
+        - {x: -72, y: 37}
+        - {x: -75, y: 35}
+        - {x: -82, y: 30}
+        - {x: -84, y: 28}
+        - {x: -95, y: 14}
+        - {x: -97, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e6f64c94d7b834c8c82b2b35fae28e
+      internalID: -566639046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 99de41ff93ae12143ad0fa6e619d4969
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dragon_2_attack_0: 971970114
+      dragon_2_attack_1: 995598007
+      dragon_2_attack_2: -1628841886
+      dragon_2_attack_3: -259452630
+      dragon_2_attack_4: 525561617
+      dragon_2_attack_5: 1313995078
+      dragon_2_defeat_0: 1256658873
+      dragon_2_defeat_1: -1807248110
+      dragon_2_defeat_2: 1420325299
+      dragon_2_defeat_3: -1256967777
+      dragon_2_defeat_4: 1634486917
+      dragon_2_defeat_5: -1642036257
+      dragon_2_hurt_0: 1873177162
+      dragon_2_hurt_1: -1868784095
+      dragon_2_hurt_2: 1129183006
+      dragon_2_hurt_3: 626874475
+      dragon_2_hurt_4: 389363988
+      dragon_2_hurt_5: 472531579
+      dragon_2_idle_0: -1795484547
+      dragon_2_idle_1: 1581815304
+      dragon_2_idle_2: 421170297
+      dragon_2_idle_3: -120498410
+      dragon_2_idle_4: -1459210834
+      dragon_2_idle_5: -1077146372
+      dragon_2_portrait: -566639046
+      dragon_2_walk_0: -785628417
+      dragon_2_walk_1: 220830150
+      dragon_2_walk_2: 1803320853
+      dragon_2_walk_3: -79332320
+      dragon_2_walk_4: 430429817
+      dragon_2_walk_5: 281663511
+      dragon_2_windup_0: 1733105499
+      dragon_2_windup_1: -1395556936
+      dragon_2_windup_2: -2079334233
+      dragon_2_windup_3: -775980031
+      dragon_2_windup_4: -103573545
+      dragon_2_windup_5: 1351576814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

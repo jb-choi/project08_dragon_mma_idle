@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: fbf7a5651cf539a4eb085110f66f5d4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2917034606796850067
+    second: dragon-light-hit_0
+  - first:
+      213: 1018635023263252097
+    second: dragon-light-hit_1
+  - first:
+      213: 842074963732556041
+    second: dragon-light-hit_2
+  - first:
+      213: -2195537240649547005
+    second: dragon-light-hit_3
+  - first:
+      213: 5218007476102858062
+    second: dragon-light-hit_4
+  - first:
+      213: -2161527016044517272
+    second: dragon-light-hit_5
+  - first:
+      213: -1497857900308532216
+    second: dragon-light-hit_6
+  - first:
+      213: -3291129171295838798
+    second: dragon-light-hit_7
+  - first:
+      213: 6379439913476178549
+    second: dragon-light-hit_8
+  - first:
+      213: 6427145744604337001
+    second: dragon-light-hit_9
+  - first:
+      213: -7407289277312209251
+    second: dragon-light-hit_10
+  - first:
+      213: 5930559599746722907
+    second: dragon-light-hit_11
+  - first:
+      213: -2140865479631170195
+    second: dragon-light-hit_12
+  - first:
+      213: -2965495216907950059
+    second: dragon-light-hit_13
+  - first:
+      213: -4526622121012219527
+    second: dragon-light-hit_14
+  - first:
+      213: 4301530071880537971
+    second: dragon-light-hit_15
+  - first:
+      213: -4541328323066746441
+    second: dragon-light-hit_16
+  - first:
+      213: -6374136589880531120
+    second: dragon-light-hit_17
+  - first:
+      213: -6594332405852415853
+    second: dragon-light-hit_18
+  - first:
+      213: 8874186328003640371
+    second: dragon-light-hit_19
+  - first:
+      213: 6871680584192016468
+    second: dragon-light-hit_20
+  - first:
+      213: -6599592782295909867
+    second: dragon-light-hit_21
+  - first:
+      213: 4056907931676192901
+    second: dragon-light-hit_22
+  - first:
+      213: 141941992769458465
+    second: dragon-light-hit_23
+  - first:
+      213: 7742579634394965830
+    second: dragon-light-hit_24
+  - first:
+      213: -2197087922735226505
+    second: dragon-light-hit_25
+  - first:
+      213: 2409451390137334905
+    second: dragon-light-hit_26
+  - first:
+      213: 3404438056199823974
+    second: dragon-light-hit_27
+  - first:
+      213: -7885167123667520649
+    second: dragon-light-hit_28
+  - first:
+      213: -616255828938732778
+    second: dragon-light-hit_29
+  - first:
+      213: 1903028487885977542
+    second: dragon-light-hit_30
+  - first:
+      213: 4975074640362554169
+    second: dragon-light-hit_31
+  - first:
+      213: 1934317578289873106
+    second: dragon-light-hit_32
+  - first:
+      213: -7066983900116371535
+    second: dragon-light-hit_33
+  - first:
+      213: 8016682437353893255
+    second: dragon-light-hit_34
+  - first:
+      213: 1532043653977746465
+    second: dragon-light-hit_35
+  - first:
+      213: 1199326865101182089
+    second: dragon-light-hit_36
+  - first:
+      213: -8174556448424725982
+    second: dragon-light-hit_37
+  - first:
+      213: 2354764181405007477
+    second: dragon-light-hit_38
+  - first:
+      213: 8858433803294216975
+    second: dragon-light-hit_39
+  - first:
+      213: -1149191729310647857
+    second: dragon-light-hit_40
+  - first:
+      213: -8028932706523753841
+    second: dragon-light-hit_41
+  - first:
+      213: -5291907830529678239
+    second: dragon-light-hit_42
+  - first:
+      213: -8234151888030192359
+    second: dragon-light-hit_43
+  - first:
+      213: 1855515362871965841
+    second: dragon-light-hit_44
+  - first:
+      213: -8001332516938800151
+    second: dragon-light-hit_45
+  - first:
+      213: -1114119851746565576
+    second: dragon-light-hit_46
+  - first:
+      213: -4849014252229236209
+    second: dragon-light-hit_47
+  - first:
+      213: -3305824332589239391
+    second: dragon-light-hit_48
+  - first:
+      213: -3199684743072321079
+    second: dragon-light-hit_49
+  - first:
+      213: 5444952962598200834
+    second: dragon-light-hit_50
+  - first:
+      213: 1027698840335563393
+    second: dragon-light-hit_51
+  - first:
+      213: -2678008884663990403
+    second: dragon-light-hit_52
+  - first:
+      213: -2843961092230959844
+    second: dragon-light-hit_53
+  - first:
+      213: -5447658163766670708
+    second: dragon-light-hit_54
+  - first:
+      213: 981931373168412126
+    second: dragon-light-hit_55
+  - first:
+      213: 1998667815628947786
+    second: dragon-light-hit_56
+  - first:
+      213: 4537984192798374481
+    second: dragon-light-hit_57
+  - first:
+      213: -3426038828051247643
+    second: dragon-light-hit_58
+  - first:
+      213: -3531860606606031356
+    second: dragon-light-hit_59
+  - first:
+      213: -2867263198984638289
+    second: dragon-light-hit_60
+  - first:
+      213: 80475420815286154
+    second: dragon-light-hit_61
+  - first:
+      213: 7239474135837464176
+    second: dragon-light-hit_62
+  - first:
+      213: 6654939225057205972
+    second: dragon-light-hit_63
+  - first:
+      213: 7717744100983098942
+    second: dragon-light-hit_64
+  - first:
+      213: -2431497960235204418
+    second: dragon-light-hit_65
+  - first:
+      213: 7512635306519742395
+    second: dragon-light-hit_66
+  - first:
+      213: -4105427408017888326
+    second: dragon-light-hit_67
+  - first:
+      213: -6299819671268806497
+    second: dragon-light-hit_68
+  - first:
+      213: 5311303376742915803
+    second: dragon-light-hit_69
+  - first:
+      213: 2842637045095264345
+    second: dragon-light-hit_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon-light-hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 443
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c3a50fa7c9487d0800000000000000
+      internalID: -2917034606796850067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 853
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eb06d182be22e00800000000000000
+      internalID: 1018635023263252097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 821
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909678fc7b6afab00800000000000000
+      internalID: 842074963732556041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 311
+        width: 491
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30341f71382e781e0800000000000000
+      internalID: -2195537240649547005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_4
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 809
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45817047261a6840800000000000000
+      internalID: 5218007476102858062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 836
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868a14491a6b002e0800000000000000
+      internalID: -2161527016044517272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_6
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 836
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804f818fc2a863be0800000000000000
+      internalID: -1497857900308532216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_7
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 829
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd5cf2b47f8352d0800000000000000
+      internalID: -3291129171295838798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_8
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 781
+        width: 158
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57242b43dc2588850800000000000000
+      internalID: 6379439913476178549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_9
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 775
+        width: 126
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9631ec2900fc13950800000000000000
+      internalID: 6427145744604337001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_10
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 791
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eee35d5a5043990800000000000000
+      internalID: -7407289277312209251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_11
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 793
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5caf26d8849d4250800000000000000
+      internalID: 5930559599746722907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_12
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 823
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6510b6603e1a42e0800000000000000
+      internalID: -2140865479631170195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_13
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 823
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518e415efc178d6d0800000000000000
+      internalID: -2965495216907950059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_14
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 787
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97134acf9253e21c0800000000000000
+      internalID: -4526622121012219527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_15
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 781
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37799155fca12bb30800000000000000
+      internalID: 4301530071880537971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_16
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 824
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9af2f73f5f9f0c0800000000000000
+      internalID: -4541328323066746441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_17
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 797
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057e95a0b848a87a0800000000000000
+      internalID: -6374136589880531120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_18
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 773
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398d15a7d993c74a0800000000000000
+      internalID: -6594332405852415853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_19
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 358
+        width: 431
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cf847a271772b70800000000000000
+      internalID: 8874186328003640371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_20
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 779
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450c6b6651d1d5f50800000000000000
+      internalID: 6871680584192016468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 739
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a3505a4598964a0800000000000000
+      internalID: -6599592782295909867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_22
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 370
+        width: 438
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580360af4480d4830800000000000000
+      internalID: 4056907931676192901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_23
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 727
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1211cb98d7748f100800000000000000
+      internalID: 141941992769458465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 598
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6472941d72b237b60800000000000000
+      internalID: 7742579634394965830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_25
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 536
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771e019cc206281e0800000000000000
+      internalID: -2197087922735226505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 481
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf4b40647107120800000000000000
+      internalID: 2409451390137334905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_27
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 485
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662ac97ef5efe3f20800000000000000
+      internalID: 3404438056199823974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 489
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77375374742429290800000000000000
+      internalID: -7885167123667520649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_29
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 490
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bc751b69e9277f0800000000000000
+      internalID: -616255828938732778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_30
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 492
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c774e9b35ae86a10800000000000000
+      internalID: 1903028487885977542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 473
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9334dddb6040b0540800000000000000
+      internalID: 4975074640362554169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_32
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 471
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d003c8c69318da10800000000000000
+      internalID: 1934317578289873106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_33
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 470
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7b828d5970ded90800000000000000
+      internalID: -7066983900116371535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_34
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 474
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d679bd33af04f60800000000000000
+      internalID: 8016682437353893255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_35
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 471
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c2cbf0699e24510800000000000000
+      internalID: 1532043653977746465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_36
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 457
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98450f3fd6dd4a010800000000000000
+      internalID: 1199326865101182089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 453
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222f34788342e8e80800000000000000
+      internalID: -8174556448424725982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_38
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 459
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e75720c8dcda020800000000000000
+      internalID: 2354764181405007477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_39
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 459
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f031aaf2c9a7fea70800000000000000
+      internalID: 8858433803294216975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_40
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 461
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc93f9bf5304d00f0800000000000000
+      internalID: -1149191729310647857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_41
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 444
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82d2261e30839090800000000000000
+      internalID: -8028932706523753841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_42
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 418
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164ab29addd5f86b0800000000000000
+      internalID: -5291907830529678239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_43
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 434
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d2957fb7a6abd80800000000000000
+      internalID: -8234151888030192359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_44
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 428
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198734f346d10c910800000000000000
+      internalID: 1855515362871965841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_45
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 428
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3a41ef77e85f090800000000000000
+      internalID: -8001332516938800151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 410
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8326f6fc5e9d980f0800000000000000
+      internalID: -1114119851746565576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 418
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ae1119a37d4bcb0800000000000000
+      internalID: -4849014252229236209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_48
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 418
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3fc26d84a5f12d0800000000000000
+      internalID: -3305824332589239391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_49
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 418
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1ffe7cdaf6893d0800000000000000
+      internalID: -3199684743072321079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_50
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 404
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2066062fedb509b40800000000000000
+      internalID: 5444952962598200834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_51
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 384
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a384a76ae134e00800000000000000
+      internalID: 1027698840335563393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_52
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 386
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77434cab1dc5dad0800000000000000
+      internalID: -2678008884663990403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_53
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 402
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1daa8e54783888d0800000000000000
+      internalID: -2843961092230959844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_54
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 388
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a4ee253c70664b0800000000000000
+      internalID: -5447658163766670708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_55
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 370
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5c383a16580ad00800000000000000
+      internalID: 981931373168412126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_56
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 360
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41c196f9c1bcbb10800000000000000
+      internalID: 1998667815628947786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_57
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 386
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ab51084982afe30800000000000000
+      internalID: 4537984192798374481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_58
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 386
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed4f4b76d34470d0800000000000000
+      internalID: -3426038828051247643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 370
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4064d0bad7f4cfec0800000000000000
+      internalID: -3531860606606031356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_60
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 333
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa078fadf4f6538d0800000000000000
+      internalID: -2867263198984638289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_61
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 372
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f58d608f7ed1100800000000000000
+      internalID: 80475420815286154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 439
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0765833ce57c77460800000000000000
+      internalID: 7239474135837464176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_63
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 17
+        width: 422
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de195f37f71b5c50800000000000000
+      internalID: 6654939225057205972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_64
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 354
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ec6769e5fea1b60800000000000000
+      internalID: 7717744100983098942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_65
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 348
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb00810ec75914ed0800000000000000
+      internalID: -2431497960235204418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_66
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 39
+        width: 429
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7ca24f10e324860800000000000000
+      internalID: 7512635306519742395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_67
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 0
+        width: 420
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbe0fd16879607c0800000000000000
+      internalID: -4105427408017888326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_68
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 346
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f903109036b8298a0800000000000000
+      internalID: -6299819671268806497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_69
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 136
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde1819d74a85b940800000000000000
+      internalID: 5311303376742915803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-light-hit_70
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 35
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950f442e453137720800000000000000
+      internalID: 2842637045095264345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dragon-light-hit_0: -2917034606796850067
+      dragon-light-hit_1: 1018635023263252097
+      dragon-light-hit_10: -7407289277312209251
+      dragon-light-hit_11: 5930559599746722907
+      dragon-light-hit_12: -2140865479631170195
+      dragon-light-hit_13: -2965495216907950059
+      dragon-light-hit_14: -4526622121012219527
+      dragon-light-hit_15: 4301530071880537971
+      dragon-light-hit_16: -4541328323066746441
+      dragon-light-hit_17: -6374136589880531120
+      dragon-light-hit_18: -6594332405852415853
+      dragon-light-hit_19: 8874186328003640371
+      dragon-light-hit_2: 842074963732556041
+      dragon-light-hit_20: 6871680584192016468
+      dragon-light-hit_21: -6599592782295909867
+      dragon-light-hit_22: 4056907931676192901
+      dragon-light-hit_23: 141941992769458465
+      dragon-light-hit_24: 7742579634394965830
+      dragon-light-hit_25: -2197087922735226505
+      dragon-light-hit_26: 2409451390137334905
+      dragon-light-hit_27: 3404438056199823974
+      dragon-light-hit_28: -7885167123667520649
+      dragon-light-hit_29: -616255828938732778
+      dragon-light-hit_3: -2195537240649547005
+      dragon-light-hit_30: 1903028487885977542
+      dragon-light-hit_31: 4975074640362554169
+      dragon-light-hit_32: 1934317578289873106
+      dragon-light-hit_33: -7066983900116371535
+      dragon-light-hit_34: 8016682437353893255
+      dragon-light-hit_35: 1532043653977746465
+      dragon-light-hit_36: 1199326865101182089
+      dragon-light-hit_37: -8174556448424725982
+      dragon-light-hit_38: 2354764181405007477
+      dragon-light-hit_39: 8858433803294216975
+      dragon-light-hit_4: 5218007476102858062
+      dragon-light-hit_40: -1149191729310647857
+      dragon-light-hit_41: -8028932706523753841
+      dragon-light-hit_42: -5291907830529678239
+      dragon-light-hit_43: -8234151888030192359
+      dragon-light-hit_44: 1855515362871965841
+      dragon-light-hit_45: -8001332516938800151
+      dragon-light-hit_46: -1114119851746565576
+      dragon-light-hit_47: -4849014252229236209
+      dragon-light-hit_48: -3305824332589239391
+      dragon-light-hit_49: -3199684743072321079
+      dragon-light-hit_5: -2161527016044517272
+      dragon-light-hit_50: 5444952962598200834
+      dragon-light-hit_51: 1027698840335563393
+      dragon-light-hit_52: -2678008884663990403
+      dragon-light-hit_53: -2843961092230959844
+      dragon-light-hit_54: -5447658163766670708
+      dragon-light-hit_55: 981931373168412126
+      dragon-light-hit_56: 1998667815628947786
+      dragon-light-hit_57: 4537984192798374481
+      dragon-light-hit_58: -3426038828051247643
+      dragon-light-hit_59: -3531860606606031356
+      dragon-light-hit_6: -1497857900308532216
+      dragon-light-hit_60: -2867263198984638289
+      dragon-light-hit_61: 80475420815286154
+      dragon-light-hit_62: 7239474135837464176
+      dragon-light-hit_63: 6654939225057205972
+      dragon-light-hit_64: 7717744100983098942
+      dragon-light-hit_65: -2431497960235204418
+      dragon-light-hit_66: 7512635306519742395
+      dragon-light-hit_67: -4105427408017888326
+      dragon-light-hit_68: -6299819671268806497
+      dragon-light-hit_69: 5311303376742915803
+      dragon-light-hit_7: -3291129171295838798
+      dragon-light-hit_70: 2842637045095264345
+      dragon-light-hit_8: 6379439913476178549
+      dragon-light-hit_9: 6427145744604337001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

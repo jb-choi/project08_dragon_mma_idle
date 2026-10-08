@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 78db7e1bc9d56374aad8778116c10f46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5418051854892044092
+    second: dragon_0_yield_0
+  - first:
+      213: -7364424660271097077
+    second: dragon_0_yield_1
+  - first:
+      213: -7142390358666977766
+    second: dragon_0_yield_2
+  - first:
+      213: 5353097376690876703
+    second: dragon_0_yield_3
+  - first:
+      213: -251244410989226918
+    second: dragon_0_yield_4
+  - first:
+      213: 5270369345658704891
+    second: dragon_0_yield_5
+  - first:
+      213: 6798375874856463305
+    second: dragon_0_yield_6
+  - first:
+      213: -2937108944019723635
+    second: dragon_0_yield_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon_0_yield_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 192
+      alignment: 9
+      pivot: {x: 0.203125, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -128, y: -96}
+        - {x: -128, y: 96}
+        - {x: 128, y: 96}
+        - {x: 128, y: -96}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c073864b863fc4b0800000000000000
+      internalID: -5418051854892044092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_0_yield_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 192
+      alignment: 9
+      pivot: {x: 0.203125, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -128, y: -96}
+        - {x: -128, y: 96}
+        - {x: 128, y: 96}
+        - {x: 128, y: -96}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b1a653ace4cc990800000000000000
+      internalID: -7364424660271097077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_0_yield_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 192
+      alignment: 9
+      pivot: {x: 0.203125, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -128, y: -96}
+        - {x: -128, y: 96}
+        - {x: 128, y: 96}
+        - {x: 128, y: -96}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eda709fc121ec90800000000000000
+      internalID: -7142390358666977766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_0_yield_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 192
+      alignment: 9
+      pivot: {x: 0.203125, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -128, y: -96}
+        - {x: -128, y: 96}
+        - {x: 128, y: 96}
+        - {x: 128, y: -96}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f113cb1c3b50a4a40800000000000000
+      internalID: 5353097376690876703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_0_yield_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 192
+      alignment: 9
+      pivot: {x: 0.203125, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -128, y: -96}
+        - {x: -128, y: 96}
+        - {x: 128, y: 96}
+        - {x: 128, y: -96}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a545f231a86638cf0800000000000000
+      internalID: -251244410989226918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_0_yield_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 192
+      alignment: 9
+      pivot: {x: 0.203125, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -128, y: -96}
+        - {x: -128, y: 96}
+        - {x: 128, y: 96}
+        - {x: 128, y: -96}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3581b0ffc142940800000000000000
+      internalID: 5270369345658704891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_0_yield_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 192
+      alignment: 9
+      pivot: {x: 0.203125, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -128, y: -96}
+        - {x: -128, y: 96}
+        - {x: 128, y: 96}
+        - {x: 128, y: -96}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cba76eb6dea85e50800000000000000
+      internalID: 6798375874856463305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_0_yield_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 192
+      alignment: 9
+      pivot: {x: 0.203125, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -128, y: -96}
+        - {x: -128, y: 96}
+        - {x: 128, y: 96}
+        - {x: 128, y: -96}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ae4151afa4d37d0800000000000000
+      internalID: -2937108944019723635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6062ecd163a1b8348858f8472a6a9511
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dragon_0_yield_0: -5418051854892044092
+      dragon_0_yield_1: -7364424660271097077
+      dragon_0_yield_2: -7142390358666977766
+      dragon_0_yield_3: 5353097376690876703
+      dragon_0_yield_4: -251244410989226918
+      dragon_0_yield_5: 5270369345658704891
+      dragon_0_yield_6: 6798375874856463305
+      dragon_0_yield_7: -2937108944019723635
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

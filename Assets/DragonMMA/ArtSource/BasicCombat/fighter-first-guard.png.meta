@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 41a703b76e1308440a41fb3a54a3e52d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 589225233386596741
+    second: fighter-first-guard_0
+  - first:
+      213: 7466944756428497742
+    second: fighter-first-guard_1
+  - first:
+      213: -8285801475506280625
+    second: fighter-first-guard_2
+  - first:
+      213: -5222382101623112264
+    second: fighter-first-guard_3
+  - first:
+      213: 653846260832323175
+    second: fighter-first-guard_4
+  - first:
+      213: 1673995455712424924
+    second: fighter-first-guard_5
+  - first:
+      213: -2860505024543847642
+    second: fighter-first-guard_6
+  - first:
+      213: 1190288546339198952
+    second: fighter-first-guard_7
+  - first:
+      213: -4860435425692263181
+    second: fighter-first-guard_8
+  - first:
+      213: 5688651915703927495
+    second: fighter-first-guard_9
+  - first:
+      213: 7483175569412832738
+    second: fighter-first-guard_10
+  - first:
+      213: 7118418654481842969
+    second: fighter-first-guard_11
+  - first:
+      213: 2520357727562806335
+    second: fighter-first-guard_12
+  - first:
+      213: 1771681002896732995
+    second: fighter-first-guard_13
+  - first:
+      213: 1264352920779533885
+    second: fighter-first-guard_14
+  - first:
+      213: 3808294791106642962
+    second: fighter-first-guard_15
+  - first:
+      213: -3362069002216588908
+    second: fighter-first-guard_16
+  - first:
+      213: -4098800165702814332
+    second: fighter-first-guard_17
+  - first:
+      213: -4197838109349374109
+    second: fighter-first-guard_18
+  - first:
+      213: -8135979585803519923
+    second: fighter-first-guard_19
+  - first:
+      213: -1111305419705247960
+    second: fighter-first-guard_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fighter-first-guard_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 473
+        width: 295
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58964b85a395d2800800000000000000
+      internalID: 589225233386596741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 481
+        width: 415
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43e264c1baef9760800000000000000
+      internalID: 7466944756428497742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_2
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 555
+        width: 283
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f476a05457be20d80800000000000000
+      internalID: -8285801475506280625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 972
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd756fd52f5687b0800000000000000
+      internalID: -5222382101623112264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 475
+        width: 419
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766c0a2c5bde21900800000000000000
+      internalID: 653846260832323175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_5
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 979
+        width: 115
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd37b5d6ff93b3710800000000000000
+      internalID: 1673995455712424924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 951
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b08d5f5d17d48d0800000000000000
+      internalID: -2860505024543847642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 966
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e793c06021c48010800000000000000
+      internalID: 1190288546339198952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 958
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc53e56bb34c8cb0800000000000000
+      internalID: -4860435425692263181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 959
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2c06e07c622fe40800000000000000
+      internalID: 5688651915703927495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_10
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 956
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edbbb6688499d760800000000000000
+      internalID: 7483175569412832738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_11
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 962
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91387ee1d04b9c260800000000000000
+      internalID: 7118418654481842969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 909
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34ba42fffb1af220800000000000000
+      internalID: 2520357727562806335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_13
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 951
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343b7f04c76469810800000000000000
+      internalID: 1771681002896732995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_14
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 946
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eaac95842eb8110800000000000000
+      internalID: 1264352920779533885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 529
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214c1ef6fe7c9d430800000000000000
+      internalID: 3808294791106642962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 79
+        width: 266
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49937843e088751d0800000000000000
+      internalID: -3362069002216588908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 18
+        width: 421
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485b8f537f22e17c0800000000000000
+      internalID: -4098800165702814332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 391
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36712ab0b784eb5c0800000000000000
+      internalID: -4197838109349374109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 77
+        width: 271
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48f9584ca1371f80800000000000000
+      internalID: -8135979585803519923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter-first-guard_20
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 77
+        width: 270
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8279085db99d390f0800000000000000
+      internalID: -1111305419705247960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fighter-first-guard_0: 589225233386596741
+      fighter-first-guard_1: 7466944756428497742
+      fighter-first-guard_10: 7483175569412832738
+      fighter-first-guard_11: 7118418654481842969
+      fighter-first-guard_12: 2520357727562806335
+      fighter-first-guard_13: 1771681002896732995
+      fighter-first-guard_14: 1264352920779533885
+      fighter-first-guard_15: 3808294791106642962
+      fighter-first-guard_16: -3362069002216588908
+      fighter-first-guard_17: -4098800165702814332
+      fighter-first-guard_18: -4197838109349374109
+      fighter-first-guard_19: -8135979585803519923
+      fighter-first-guard_2: -8285801475506280625
+      fighter-first-guard_20: -1111305419705247960
+      fighter-first-guard_3: -5222382101623112264
+      fighter-first-guard_4: 653846260832323175
+      fighter-first-guard_5: 1673995455712424924
+      fighter-first-guard_6: -2860505024543847642
+      fighter-first-guard_7: 1190288546339198952
+      fighter-first-guard_8: -4860435425692263181
+      fighter-first-guard_9: 5688651915703927495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c2c8b8662d11c74393ef95345a3d963, type: 3}
+  m_Name: DefaultGameConfig
+  m_EditorClassIdentifier: Assembly-CSharp::DragonMMA.DragonGameConfig
+  dragons:
+  - kind: 0
+    displayName: "\uC232 \uC0C8\uB07C\uC6A9"
+    weight: 45
+    power: 7
+    salePrice: 40
+    coreReward: 5
+    powerReward: 1
+    saleSeconds: 30
+    trainingSeconds: 30
+    skillName: "\uAE30\uCD08 \uCCB4\uB825"
+  - kind: 1
+    displayName: "\uBC15\uCE58\uAE30\uC6A9"
+    weight: 40
+    power: 10
+    salePrice: 70
+    coreReward: 10
+    powerReward: 2
+    saleSeconds: 60
+    trainingSeconds: 120
+    skillName: Power Punch
+  - kind: 2
+    displayName: "\uD1B5\uB098\uBB34\uAF2C\uB9AC\uC6A9"
+    weight: 25
+    power: 13
+    salePrice: 120
+    coreReward: 20
+    powerReward: 3
+    saleSeconds: 180
+    trainingSeconds: 300
+    skillName: Power Punch II
+  - kind: 3
+    displayName: "\uB3CC\uBFD4\uC6A9"
+    weight: 15
+    power: 17
+    salePrice: 220
+    coreReward: 40
+    powerReward: 5
+    saleSeconds: 480
+    trainingSeconds: 600
+    skillName: Dragon Clinch
+  - kind: 4
+    displayName: "\uC232 \uAC70\uAD6C\uB8E1"
+    weight: 5
+    power: 22
+    salePrice: 500
+    coreReward: 100
+    powerReward: 8
+    saleSeconds: 900
+    trainingSeconds: 1200
+    skillName: Giant Takedown
+  walkSeconds: 10
+  battleSeconds: 20
+  winResultSeconds: 2
+  recoverySeconds: 10
+  baseChance: 50
+  powerChanceStep: 5
+  minChance: 15
+  maxChance: 85
+  cheerPerInput: 0.2
+  maxCheerBonus: 10
+  cartCapacity: 3
+  trainingUnlockCost: 80
+  startingCoins: 0
+  startingPower: 10
+  pityEncounterLimits: 00000000020000000a000000140000003c000000
+  pitySecondLimits:
+  - 0
+  - 60
+  - 300
+  - 600
+  - 1800
